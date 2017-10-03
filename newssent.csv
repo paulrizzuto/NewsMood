@@ -1,0 +1,557 @@
+,Source Account,Tweet Text,Date,Tweets Ago,Compound Sentiment,Positive Sentiment,Neutral Sentiment,Negative Sentiment
+0,BBCNews,"RT @BBCRoryCJ: Uber + TfL met at a secret location - Uber says ""constructive"",  ""hope to have further discussions.. ..determined to make th…",Tue Oct 03 16:08:03 +0000 2017,0,0.4877,0.143,0.857,0.0
+1,BBCNews,"RT @BBCNewsbeat: The government wants to give you cash if you return empty bottles to be recycled.
+
+Would that change your habits?
+
+https:/…",Tue Oct 03 15:59:02 +0000 2017,1,-0.2023,0.0,0.924,0.076
+2,BBCNews,Boris Johnson: Let the British lion roar https://t.co/w6tydykA8p,Tue Oct 03 15:51:06 +0000 2017,2,0.0,0.0,1.0,0.0
+3,BBCNews,"Tuition fee changes 'to save students £15,700' https://t.co/oBw6kCed9y",Tue Oct 03 15:21:53 +0000 2017,3,0.4939,0.314,0.686,0.0
+4,BBCNews,Landfill search for airman to restart https://t.co/4s1qQPhUHJ,Tue Oct 03 15:21:50 +0000 2017,4,0.0,0.0,1.0,0.0
+5,BBCNews,"""We are the party that believes in this country"" - @BorisJohnson https://t.co/PPlQcACTU8 #CPC17 https://t.co/u6tKuitPyK",Tue Oct 03 15:20:41 +0000 2017,5,0.4019,0.184,0.816,0.0
+6,BBCNews,RT @BBCBreaking: Police to resume search of landfill site near Cambridge for missing airman Corrie Mckeague https://t.co/2Jyx2GqRKk,Tue Oct 03 15:19:50 +0000 2017,6,-0.296,0.0,0.879,0.121
+7,BBCNews,"RT @BBCBreaking: US expels 15 Cuban diplomats, saying Cuba has failed to protect US diplomats from mystery acoustic attacks in Havana https…",Tue Oct 03 15:19:45 +0000 2017,7,-0.7351,0.088,0.612,0.299
+8,BBCNews,"""It is time to be bold, to seize the opportunities"" - @BorisJohnson addresses #CPC17 https://t.co/PPlQcACTU8 https://t.co/LCymGNaC2i",Tue Oct 03 15:05:25 +0000 2017,8,0.6369,0.286,0.714,0.0
+9,BBCNews,"""We must believe in global Britain"" - @BorisJohnson addresses #CPC17 https://t.co/PPlQcACTU8 https://t.co/asDxzxUvKo",Tue Oct 03 14:53:35 +0000 2017,9,0.0,0.0,1.0,0.0
+10,BBCNews,"RT @BBCSport: England players Eniola Aluko and Lianne Sanderson will give evidence about the FA at a government inquiry.
+
+https://t.co/siFO…",Tue Oct 03 14:21:11 +0000 2017,10,0.0,0.0,1.0,0.0
+11,BBCNews,"Follow the latest news from #CPC17 in Manchester
+
+https://t.co/NLDvY2vKhH https://t.co/88v43E7CUL",Tue Oct 03 13:46:32 +0000 2017,11,0.0,0.0,1.0,0.0
+12,BBCNews,Scottish government backs ban on fracking https://t.co/LbtjsN5uMp,Tue Oct 03 13:40:23 +0000 2017,12,-0.5859,0.0,0.51,0.49
+13,BBCNews,"RT @BBCNormanS: David Davis accuses unnamed EU officials of ""insulting, offensive"" briefing against him #cpc17",Tue Oct 03 13:39:05 +0000 2017,13,-0.6597,0.0,0.707,0.293
+14,BBCNews,"UK aiming for ""a good deal"" on #Brexit but is ""ready for the alternative"" - Brexit Secretary David Davis #CPC17… https://t.co/BcC5Swt746",Tue Oct 03 13:38:59 +0000 2017,14,0.6369,0.224,0.776,0.0
+15,BBCNews,Stourbridge stabbing: Aaron Barley admits murder https://t.co/jHuUbrMqxX,Tue Oct 03 13:25:05 +0000 2017,15,-0.5423,0.185,0.42,0.395
+16,BBCNews,Jenna Miller 'killed by drivers in 70mph race' in Barry https://t.co/2KBhZg1mZw,Tue Oct 03 13:25:04 +0000 2017,16,-0.6705,0.0,0.69,0.31
+17,BBCNews,RT @ChrisMasonBBC: Pensions campaigners outside #cpc17 https://t.co/laOJvg4oY9,Tue Oct 03 13:00:59 +0000 2017,17,0.0,0.0,1.0,0.0
+18,BBCNews,RT @BBCScotlandNews: The UK government has formally invited @NicolaSturgeon to hold talks with the prime minister over Brexit https://t.co/…,Tue Oct 03 12:45:14 +0000 2017,18,0.0,0.0,1.0,0.0
+19,BBCNews,"RT @BBCNormanS: Universal Credit heading towards ""near inevitable Christmas crisis"" unless Govt halts roll out warns @frankfieldteam",Tue Oct 03 12:45:05 +0000 2017,19,-0.4404,0.118,0.633,0.249
+20,BBCNews,"RT @BBCNormanS: Liam Fox says BBC coverage ""trite and superficial"" after challenged over what he has achieved #WATO",Tue Oct 03 12:28:42 +0000 2017,20,-0.296,0.0,0.833,0.167
+21,BBCNews,Conservative fears of a downward spiral — blog by @bbclaurak #CPC17 https://t.co/CYzdFDF5uF,Tue Oct 03 12:22:48 +0000 2017,21,-0.4215,0.0,0.763,0.237
+22,BBCNews,"RT @BBCEngland: An imam accused of making Islamic State recruitment videos can be extradited to Spain, a court has rules https://t.co/OMLNU…",Tue Oct 03 12:15:19 +0000 2017,22,-0.296,0.0,0.896,0.104
+23,BBCNews,"Rodney Bickerstaffe, ex-Unision general secretary, dies https://t.co/wmLUnNy82N",Tue Oct 03 12:04:58 +0000 2017,23,0.0,0.0,1.0,0.0
+24,BBCNews,Teenager charged after Ellon Academy incident https://t.co/QuX8SPnIO6,Tue Oct 03 12:04:55 +0000 2017,24,-0.2023,0.0,0.769,0.231
+25,BBCNews,"RT @daily_politics: Jacob Rees-Mogg confronted protestors, and one of them @ShabbirLakha faced Telegraph journalist @timothy_stanley on the…",Tue Oct 03 12:04:00 +0000 2017,25,-0.2023,0.0,0.899,0.101
+26,BBCNews,"RT @DannyShawBBC: More on acid: Sulphuric acid will become ""regulated substance"" - you'll need Home Office licence to buy it.  Penalty: 2 y…",Tue Oct 03 11:59:41 +0000 2017,26,-0.4588,0.0,0.87,0.13
+27,BBCNews,"RT @BBCBreaking: Sale of acids to people aged under 18 to be banned, UK Home Secretary @AmberRuddHR says https://t.co/QcJI0981Kd #CPC17 htt…",Tue Oct 03 11:39:36 +0000 2017,27,-0.4588,0.0,0.87,0.13
+28,BBCNews,Sale of acids to under-18s to be banned https://t.co/fCVHJgMeyG,Tue Oct 03 11:38:28 +0000 2017,28,-0.4588,0.0,0.727,0.273
+29,BBCNews,Former women's college fields all-male University Challenge team https://t.co/rBPdsNeHp6,Tue Oct 03 11:36:10 +0000 2017,29,0.0772,0.14,0.86,0.0
+30,BBCNews,"RT @BBCDanielS: Amber Rudd acid announcements:
+-new rules against carrying acid without a good reason
+-sale of acid to under 18s banned htt…",Tue Oct 03 11:28:17 +0000 2017,30,-0.6604,0.0,0.787,0.213
+31,BBCNews,Birmingham-based imam 'can be extradited' https://t.co/NwemD6u6wK,Tue Oct 03 11:25:23 +0000 2017,31,0.0,0.0,1.0,0.0
+32,BBCNews,"RT @BBCBreaking: MEPs vote to urge EU not to open next phase of #Brexit talks unless there is a ""major breakthrough"" https://t.co/7jDUx0yznb",Tue Oct 03 10:55:50 +0000 2017,32,0.0,0.0,1.0,0.0
+33,BBCNews,RT @VictoriaLIVE: 1.4 million Americans have been killed by guns between 1968-2011 (Source: Politifact) https://t.co/WdvahKNmYW,Tue Oct 03 10:50:45 +0000 2017,33,-0.6705,0.0,0.757,0.243
+34,BBCNews,"Glossy prospectuses and slick open evenings, but what should you look for when visiting secondary schools?
+
+https://t.co/hf51VVuBrt",Tue Oct 03 10:43:15 +0000 2017,34,0.0,0.0,1.0,0.0
+35,BBCNews,RT @BBCBreaking: British comedian Steve Coogan receives damages and apology from Mirror Group Newspapers over phone hacking https://t.co/S2…,Tue Oct 03 10:13:54 +0000 2017,35,-0.0258,0.175,0.691,0.134
+36,BBCNews,"RT @BBCNewsnight: ""Your disgusting views are not welcome here."" Watch as @Jacob_Rees_Mogg spars with a protester in Manchester #CPC17 https…",Tue Oct 03 10:10:42 +0000 2017,36,-0.7077,0.0,0.743,0.257
+37,BBCNews,"RT @BBCSport: Mark Sampson should have been sacked years ago, says the FA chairman https://t.co/pZFIriVewu https://t.co/qqnZXVwQqi",Tue Oct 03 10:09:51 +0000 2017,37,0.0,0.0,1.0,0.0
+38,BBCNews,"RT @BBCNormanS: Tory member shuffling out of cpc#17 conference hall tells me - ""We've  got to take down Boris"" #Bojobacklssh",Tue Oct 03 09:53:36 +0000 2017,38,0.0,0.0,1.0,0.0
+39,BBCNews,"RT @VictoriaLIVE: Health Secretary's pledge for nurses
+▪️ Increase in training places
+▪️ New flexible working options
+▪️ First refusal on n…",Tue Oct 03 09:53:29 +0000 2017,39,0.4939,0.174,0.826,0.0
+40,BBCNews,Millions of metres of dangerous cable 'in homes across UK' https://t.co/RCJsitmdm3,Tue Oct 03 09:53:16 +0000 2017,40,-0.4767,0.0,0.763,0.237
+41,BBCNews,"Jeremy Hunt to 150,000 EU workers in health system: ""We want you to stay"" after #Brexit
+
+https://t.co/PPlQcACTU8… https://t.co/RMofqycQOR",Tue Oct 03 09:50:57 +0000 2017,41,0.0772,0.071,0.929,0.0
+42,BBCNews,"Number of training places for nurses will go up by 25%, Health Secretary Jeremy Hunt tells #CPC17… https://t.co/rPXZEYn8ZG",Tue Oct 03 09:42:55 +0000 2017,42,0.0772,0.071,0.929,0.0
+43,BBCNews,"RT @VictoriaLIVE: 'The Government needs to adopt the situation in Germany, where pregnant women and new mums cannot be made redundant' - @M…",Tue Oct 03 09:31:12 +0000 2017,43,0.1779,0.075,0.925,0.0
+44,BBCNews,RT @BBCLookNorth: Obese patients in West Yorkshire could be asked to lose weight before surgery: https://t.co/Oakx5tcOBj https://t.co/UnT7J…,Tue Oct 03 09:18:11 +0000 2017,44,-0.4019,0.0,0.856,0.144
+45,BBCNews,"RT @VictoriaLIVE: ""It's absolutely disgraceful and irresponsible""
+
+Retailer Amazon criticised over anorexia/bulimia hoodie: 
+https://t.co/K…",Tue Oct 03 09:11:59 +0000 2017,45,-0.6444,0.091,0.589,0.32
+46,BBCNews,"Cyber-security: More than 1,000 attacks reported in centre's first year https://t.co/vNL83B9DvS",Tue Oct 03 09:09:47 +0000 2017,46,-0.4877,0.0,0.76,0.24
+47,BBCNews,RT @BBCLookNorth: North Yorkshire fracking protester charged with assaulting police officer: https://t.co/wrfDfizvOd https://t.co/RSr28mGLqc,Tue Oct 03 08:58:13 +0000 2017,47,-0.6249,0.0,0.683,0.317
+48,BBCNews,RT @VictoriaLIVE: Lucas Bruch had to hide behind a car when the Las Vegas gunman opened fire. He still supports the right to own a gun thou…,Tue Oct 03 08:57:07 +0000 2017,48,-0.4588,0.083,0.7,0.217
+49,BBCNews,"RT @BBCArchive: ""Rock n Roll is pretty universal."" Tom Petty speaking to Bob Harris at The Whisky, Los Angeles in 1977 https://t.co/4ecb3Cg…",Tue Oct 03 08:56:52 +0000 2017,49,0.34,0.133,0.792,0.075
+50,BBCNews,RT @BBCParliament: EU Commission's @JunckerEU and Michel Barnier update MEPs on state of Brexit talks https://t.co/jFISQcItkv https://t.co/…,Tue Oct 03 08:30:36 +0000 2017,50,0.0,0.0,1.0,0.0
+51,BBCNews,Monarch chief Andrew Swaffield 'devastated' at closure https://t.co/fbzv7O2Ntf,Tue Oct 03 07:51:47 +0000 2017,51,0.0,0.0,1.0,0.0
+52,BBCNews,"RT @BBCWorld: Today Business Live is asking... If you had £1000, what would you invest in? Let us know, use #BBCBizLive https://t.co/x5KbZq…",Tue Oct 03 07:32:34 +0000 2017,52,0.0,0.0,1.0,0.0
+53,BBCNews,"RT @BBCNormanS: ""There is a long term job done to be here"" - Theresa May.@BBCr4today AKA.... I'm not going anywhere",Tue Oct 03 07:30:16 +0000 2017,53,0.0,0.0,1.0,0.0
+54,BBCNews,"RT @BBCr4today: Is Grenfell Tower a monument to injustice, @bbcnickrobinson asks the PM. 
+
+""We need to find out exactly what happened,"" she…",Tue Oct 03 07:25:28 +0000 2017,54,-0.5719,0.0,0.844,0.156
+55,BBCNews,RT @BBCNormanS: Brexit transition period cd be less than two years in some areas - PM @BBCr4today,Tue Oct 03 07:23:32 +0000 2017,55,0.0,0.0,1.0,0.0
+56,BBCNews,RT @rosschawkins: The Prime Minister: Of course the Prime Minister is in charge,Tue Oct 03 07:17:34 +0000 2017,56,0.0,0.0,1.0,0.0
+57,BBCNews,RT @ChrisMasonBBC: PM tells @BBCr4today it's important to have 'a range of voices around the table.',Tue Oct 03 07:17:25 +0000 2017,57,0.2023,0.107,0.893,0.0
+58,BBCNews,RT @BBCNormanS: Am now told Theresa May will not be in hall for Boris speech ..... #CPC17,Tue Oct 03 07:17:23 +0000 2017,58,0.0,0.0,1.0,0.0
+59,BBCNews,Theresa May: I don't want a cabinet of 'yes' men https://t.co/pGbzM3mabE,Tue Oct 03 07:16:06 +0000 2017,59,-0.0572,0.0,0.867,0.133
+60,BBCNews,RT @rosschawkins: Is Boris' aim was to make sure the PM was asked about Boris in every broadcast interview for the entire conference all is…,Tue Oct 03 06:51:41 +0000 2017,60,0.3182,0.087,0.913,0.0
+61,BBCNews,"Morning briefing: Reaction to Las Vegas killings, Boris Johnson to address Conservatives, Musician Tom Petty dies https://t.co/OHiUyZbSlD",Tue Oct 03 06:50:11 +0000 2017,61,-0.743,0.0,0.704,0.296
+62,BBCNews,Theresa May asked if she agrees with Boris Johnson's #Brexit red lines. PM says cabinet focused on getting best dea… https://t.co/Y1BuW5Oh04,Tue Oct 03 06:42:46 +0000 2017,62,0.8225,0.323,0.677,0.0
+63,BBCNews,"RT @BBCNormanS: There needs to be ""degree of flexibility"" in public sector pay but must be affordable says PM. Not sounding like big hike a…",Tue Oct 03 06:20:10 +0000 2017,63,0.5789,0.176,0.782,0.043
+64,BBCNews,RT @iainjwatson: the PM tells @bbcbreakfast there will be 'flexibility' on the pay cap but 'everything needs to be affordable' https://t.co…,Tue Oct 03 06:16:45 +0000 2017,64,-0.0516,0.0,0.943,0.057
+65,BBCNews,"RT @BBCNormanS: Outcome of Govt's 'race audit' will make ""uncomfortable  reading"" says Theresa May @BBCBreakfast",Tue Oct 03 06:15:02 +0000 2017,65,-0.3818,0.0,0.843,0.157
+66,BBCNews,"RT @bbc5live: Affected by the #Monarch collapse?
+
+Chair of the @UK_CAA, Dame Deirdre Hutton, has the latest travel information for anyone s…",Tue Oct 03 06:10:53 +0000 2017,66,-0.5859,0.0,0.806,0.194
+67,BBCNews,"RT @BBCEngland: Economic migrants are living in administrative limbo for up to two years due to Home Office delays, figures show https://t.…",Tue Oct 03 06:10:35 +0000 2017,67,0.0,0.0,1.0,0.0
+68,BBCNews,Online betting: More addicts struggling with mobile sites https://t.co/9x7X446wL2,Tue Oct 03 06:06:58 +0000 2017,68,-0.4728,0.0,0.722,0.278
+69,BBCNews,Sentence increase for viewing terror content online https://t.co/3TcsS853Yi,Tue Oct 03 03:02:49 +0000 2017,69,-0.2023,0.3,0.417,0.283
+70,BBCNews,Theresa May vows to act on race review findings https://t.co/i5EKWQ6kP8,Tue Oct 03 02:40:37 +0000 2017,70,0.0,0.0,1.0,0.0
+71,BBCNews,MSPs: Public sector 'must learn from Oxgangs wall collapse' https://t.co/tMxO0FC3Q8,Tue Oct 03 01:40:25 +0000 2017,71,-0.4939,0.0,0.738,0.262
+72,BBCNews,Brexit: MEPs to criticise UK over approach to talks https://t.co/06KkbkrcCY,Tue Oct 03 01:40:25 +0000 2017,72,-0.4404,0.0,0.756,0.244
+73,BBCNews,Police Scotland and Northumbria Police test terrorism response https://t.co/FG7c1HNLet,Tue Oct 03 01:40:25 +0000 2017,73,-0.6808,0.0,0.635,0.365
+74,BBCNews,Flu vaccine: NHS patients wanted to test 'universal' jab https://t.co/sZ2lCajvXO,Tue Oct 03 00:31:15 +0000 2017,74,-0.3818,0.0,0.776,0.224
+75,BBCNews,Kingdom of Us: Family's tragedy becomes Netflix film https://t.co/2UrxHk9Ecf,Tue Oct 03 00:10:25 +0000 2017,75,-0.6597,0.0,0.645,0.355
+76,BBCNews,Home Office visa delays 'inhumane' https://t.co/9CL844ZbUl,Tue Oct 03 00:06:48 +0000 2017,76,0.0,0.0,1.0,0.0
+77,BBCNews,Uber boss to hold talks with TfL on London licence https://t.co/Jh7ew0RcH0,Tue Oct 03 00:06:48 +0000 2017,77,0.0,0.0,1.0,0.0
+78,BBCNews,"RT @BBCSport: Uncapped Harry Winks has been called up to the England squad ahead of qualifiers against Slovenia and Lithuania.
+https://t.co…",Mon Oct 02 21:51:50 +0000 2017,78,0.0,0.0,1.0,0.0
+79,BBCNews,"Tuesday's Times: ""'Act of pure evil'"" #tomorrowspaperstoday #bbcpapers (via @MsHelicat) https://t.co/6XtdjCc7C2",Mon Oct 02 21:43:37 +0000 2017,79,0.0,0.0,1.0,0.0
+80,BBCNews,"Tuesday's Guardian ""'An act of pure evil': 58 shot dead in Las Vegas massacre"" #bbcpapers (via @MsHelicat) https://t.co/TMJk3u4Pw7",Mon Oct 02 21:43:22 +0000 2017,80,-0.6486,0.0,0.798,0.202
+81,BBCNews,"Tuesday's Mirror: ""Monarch rescue is biggest since Dunkirk"" #tomorrowspaperstoday #bbcpapers (via @MsHelicat) https://t.co/TxLEfiJSfQ",Mon Oct 02 21:43:01 +0000 2017,81,0.5106,0.216,0.784,0.0
+82,BBCNews,"Tuesday's Telegraph: ""'An act of pure evil'"" #tomorrowspaperstoday #bbcpapers (via @MsHelicat) https://t.co/VUrgWl4CzD",Mon Oct 02 21:42:39 +0000 2017,82,0.0,0.0,1.0,0.0
+83,BBCNews,"Tuesday's i: ""America's worst ever shooting"" #tomorrowspaperstoday #bbcpapers (via @MsHelicat) https://t.co/uq7VtDSExx",Mon Oct 02 21:42:15 +0000 2017,83,-0.6249,0.0,0.709,0.291
+84,BBCNews,"Tuesday's Metro: ""Pure Evil"" #tomorrowspaperstoday #bbcpapers (via @MsHelicat)https://t.co/m7tlorB3B8",Mon Oct 02 21:41:57 +0000 2017,84,-0.6597,0.0,0.614,0.386
+85,BBCNews,"Tuesday's FT: ""Monarch Airlines collapse spurs 'biggest peacetime repatriation'"" #bbcpapers (via @MsHelicat) https://t.co/X9qec9LjMr",Mon Oct 02 21:41:32 +0000 2017,85,0.0,0.184,0.632,0.184
+86,BBCNews,"Tuesday's Express: ""Don't make us sell our homes"" #tomorrowspaperstoday #bbcpapers (via @MsHelicat) https://t.co/7dkMZqZxHD",Mon Oct 02 21:40:47 +0000 2017,86,0.0,0.0,1.0,0.0
+87,BBCNews,"Tuesday's Star: ""Machine-gun massacre"" #tomorrowspaperstoday #bbcpapers (via @MsHelicat) https://t.co/C5ZtarvW0q",Mon Oct 02 21:40:33 +0000 2017,87,0.0,0.0,1.0,0.0
+88,BBCNews,"Tuesday's Sun: ""Run!"" #tomorrowspaperstoday #bbcpapers (via @MsHelicat) https://t.co/cH3Pht0Ff5",Mon Oct 02 21:40:17 +0000 2017,88,0.0,0.0,1.0,0.0
+89,BBCNews,"Tuesday's Mail: ""What turned Mr Normal into a mass killer?"" #tomorrowspaperstoday #bbcpapers (via @MsHelicat) https://t.co/NirRlZaRtk",Mon Oct 02 21:39:39 +0000 2017,89,0.0,0.0,1.0,0.0
+90,BBCNews,"Work with 'gorgeous EU women', MP Craig Mackinlay says https://t.co/CLDpxZGgZi",Mon Oct 02 21:09:53 +0000 2017,90,0.6124,0.308,0.692,0.0
+91,BBCNews,RT @bbcweather: UK's longest-lasting patch of snow melts away: https://t.co/ou4QwgnNK1 Jo https://t.co/Hdc8kzkWBF,Mon Oct 02 20:35:38 +0000 2017,91,0.0,0.0,1.0,0.0
+92,BBCNews,Amber Rudd accuses tech giants of 'sneering' at politicians https://t.co/6GmTMh2eyO,Mon Oct 02 20:15:15 +0000 2017,92,-0.34,0.0,0.789,0.211
+93,BBCNews,RT @BBCBreaking: US President Donald Trump leads a minute's silence at White House for victims of Las Vegas mass shooting https://t.co/eAAt…,Mon Oct 02 18:47:49 +0000 2017,93,-0.3182,0.0,0.892,0.108
+94,BBCNews,"Five-year-old girl 'misses' Muslim fosterers, court hears https://t.co/dYlRWR2Nx4",Mon Oct 02 18:31:42 +0000 2017,94,0.0,0.0,1.0,0.0
+95,BBCNews,"Tax-funded NHS a Ponzi scheme, says minister Phillip Lee https://t.co/1YNopOVn34",Mon Oct 02 18:31:41 +0000 2017,95,0.0,0.0,1.0,0.0
+96,BBCNews,"RT @BBCEngland: Flights returning 110,000 holidaymakers from overseas after Monarch's collapse will cost about £60m https://t.co/JfJLok6THg…",Mon Oct 02 18:23:33 +0000 2017,96,-0.4939,0.0,0.824,0.176
+97,BBCNews,Monarch rescue flights 'to cost £60m' https://t.co/vInWaJp2FY,Mon Oct 02 18:07:42 +0000 2017,97,0.5106,0.355,0.645,0.0
+98,BBCNews,"RT @BBCNewsround: If your children are upset by anything they've heard in the news recently, this advice might help https://t.co/cIFAHyFakC…",Mon Oct 02 17:41:38 +0000 2017,98,0.0258,0.116,0.773,0.112
+99,BBCNews,Husband charged with detective's body in lake murder https://t.co/wzk9XxaSEC,Mon Oct 02 17:18:14 +0000 2017,99,-0.7579,0.0,0.519,0.481
+100,CBSNews,The country music community is rallying together after Sunday night's shooting at a Las Vegas concert:… https://t.co/p5BZaJxTEe,Tue Oct 03 16:25:01 +0000 2017,0,0.0,0.0,1.0,0.0
+101,CBSNews,"""You have thrown our budget a little out of whack, because we've spent a lot of money on Puerto Rico and that's fin… https://t.co/b3WLPsrkmq",Tue Oct 03 16:19:14 +0000 2017,1,0.0,0.0,1.0,0.0
+102,CBSNews,"""They were here before, during, after the 1st hurricane and they continued today stay on the island,"" Congresswoman… https://t.co/Km22Em3IHq",Tue Oct 03 16:16:40 +0000 2017,2,0.0,0.0,1.0,0.0
+103,CBSNews,"""Right from the beginning, this governor didn’t play politics,” Pres. Trump says of Puerto Rico's governor… https://t.co/blL2HWDsGZ",Tue Oct 03 16:13:29 +0000 2017,3,0.34,0.13,0.87,0.0
+104,CBSNews,MOMENTS AGO: Pres. Trump begins briefings on hurricane recovery after arriving in Puerto Rico… https://t.co/7cjLBKDJk0,Tue Oct 03 16:10:48 +0000 2017,4,0.0,0.0,1.0,0.0
+105,CBSNews,"""He was a sick man, a demented man -- lots of problems, I guess,"" Pres. Trump says of the Las Vegas gunman… https://t.co/fkQlpfwn4Z",Tue Oct 03 15:55:30 +0000 2017,5,-0.7184,0.0,0.75,0.25
+106,CBSNews,"WATCH: Pres. Trump arrives in Puerto Rico, as he faces criticism over storm recovery on the island… https://t.co/X8H3OO8Nju",Tue Oct 03 15:54:46 +0000 2017,6,-0.4404,0.0,0.854,0.146
+107,CBSNews,"JUST IN: Secy. Rex Tillerson says U.S. is working to ""ensure equity"" with Cuba by kicking out 15 of its diplomats… https://t.co/8D4Bl2PFnp",Tue Oct 03 15:45:35 +0000 2017,7,0.3818,0.11,0.89,0.0
+108,CBSNews,"On Sunday night, Chris Bethel heard gunfire coming from below his room at the Mandalay Bay hotel. He called police:… https://t.co/qQPAw8vqxT",Tue Oct 03 15:40:01 +0000 2017,8,0.0,0.0,1.0,0.0
+109,CBSNews,"House Speaker Paul Ryan says mental health reform is a ""critical ingredient"" in stopping mass shootings:… https://t.co/cZhVheFEZA",Tue Oct 03 15:25:01 +0000 2017,9,-0.4404,0.0,0.782,0.218
+110,CBSNews,"Iraq's first post-Saddam president, Jalal Talabani, has died at 83, Kurdish officials say:
+https://t.co/m2wD2RlqxF https://t.co/ROVugsbpkM",Tue Oct 03 15:00:08 +0000 2017,10,-0.5574,0.0,0.795,0.205
+111,CBSNews,"Marine veteran saved shooting victims by stealing a truck, loading dozens of people in, and speeding to the hospita… https://t.co/TQ1nQJL51k",Tue Oct 03 14:45:31 +0000 2017,11,-0.4939,0.113,0.645,0.242
+112,CBSNews,NEW: Country music star Jason Aldean tweets message in response to the shooting attack at his Las Vegas concert… https://t.co/jxrUT6wcaf,Tue Oct 03 14:35:09 +0000 2017,12,-0.4767,0.0,0.86,0.14
+113,CBSNews,"“Mental health reform is a critical ingredient to making sure we can try and prevent these things from happening,""… https://t.co/LXVhzDpTF0",Tue Oct 03 14:17:15 +0000 2017,13,0.0258,0.157,0.737,0.106
+114,CBSNews,"MORE: In prepared statement, former Equifax CEO says he is ""deeply sorry"" for massive data breach… https://t.co/rddmcYY3pS",Tue Oct 03 14:15:12 +0000 2017,14,0.3142,0.148,0.771,0.082
+115,CBSNews,"""We will have better days in the future because our country is resilient and we will overcome this,"" Ryan says… https://t.co/NbjTXSfgnJ",Tue Oct 03 14:14:49 +0000 2017,15,0.4404,0.127,0.873,0.0
+116,CBSNews,"""We cannot let the actions of a single person define us as a country. It is not who we are,"" Paul Ryan says… https://t.co/2YRy2wXUSK",Tue Oct 03 14:13:31 +0000 2017,16,0.0,0.0,1.0,0.0
+117,CBSNews,"""We need to find that we are stronger and we cannot allow this terror to win,"" Rep. Kevin McCarthy says on Vegas sh… https://t.co/jAmyFN1IIB",Tue Oct 03 14:12:10 +0000 2017,17,-0.4707,0.089,0.718,0.194
+118,CBSNews,Former Equifax CEO testifies before Congress to explain how breach happened https://t.co/SA6ytTxIi2 https://t.co/ouxIEA3pzW,Tue Oct 03 14:11:02 +0000 2017,18,0.0,0.0,1.0,0.0
+119,CBSNews,"The newest U.S. Ambassador to Russia, Jon Huntsman, had his first formal meeting with Russian Pres. Vladmir Putin:… https://t.co/7SKSdRS3Pk",Tue Oct 03 14:10:02 +0000 2017,19,0.0,0.0,1.0,0.0
+120,CBSNews,"""Jennifer and I pray for the people that were involved in the Nevada shooting,"" Rep. Scalise says, urging people to… https://t.co/gGZ07DsjLm",Tue Oct 03 14:07:14 +0000 2017,20,0.3182,0.108,0.892,0.0
+121,CBSNews,WATCH LIVE: House GOP holds press conference as Majority Whip Steve Scalise returns to work https://t.co/T5uqoA85rO https://t.co/hOvRs6Ap95,Tue Oct 03 14:04:47 +0000 2017,21,0.0,0.0,1.0,0.0
+122,CBSNews,"A report on the almost 3-year search for MH370 says the continuing mystery over its fate is ""almost inconceivable""… https://t.co/pa6KLTxf67",Tue Oct 03 13:55:02 +0000 2017,22,0.0,0.0,1.0,0.0
+123,CBSNews,The Nobel Physics Prize 2017 has been awarded to three scientists for their work in discovering gravitational waves… https://t.co/GPMKICSO4A,Tue Oct 03 13:40:07 +0000 2017,23,0.7184,0.261,0.739,0.0
+124,CBSNews,"""The police department has done such an incredible job. We'll be talking about gun laws as time goes by,"" Pres. Tru… https://t.co/GxRWO5JH67",Tue Oct 03 13:28:49 +0000 2017,24,-0.34,0.0,0.897,0.103
+125,CBSNews,"San Juan Mayor Carmen Yulín Cruz will attend Pres. Trump's hurricane briefing, White House press secretary confirms… https://t.co/GUjhm29gyY",Tue Oct 03 13:15:02 +0000 2017,25,0.0,0.0,1.0,0.0
+126,CBSNews,"RT @DavidBegnaud: .@POTUS has boarded Air Force One and departed for Puerto Rico
+(📸: White House Pool) https://t.co/1O5ehB4PzV",Tue Oct 03 13:04:00 +0000 2017,26,0.0,0.0,1.0,0.0
+127,CBSNews,"A security expert describes one of ""the most confounding aspects"" of the Las Vegas shooting: https://t.co/fqSxoRypzf https://t.co/Q5zcQOnljJ",Tue Oct 03 13:00:05 +0000 2017,27,0.34,0.138,0.862,0.0
+128,CBSNews,"“The Beatles always made every record different. And he was hellbent on doing the same thing,” Zanes says on Tom Pe… https://t.co/XZ3KptGZwC",Tue Oct 03 12:51:39 +0000 2017,28,0.0,0.0,1.0,0.0
+129,CBSNews,"“He was a restless spirit who wasn’t going to be overly satisfied with his own work for too long,” Tom Petty biogra… https://t.co/ZxaXXfq0Fb",Tue Oct 03 12:49:14 +0000 2017,29,0.1531,0.17,0.682,0.148
+130,CBSNews,"Tom Petty’s manager wrote in a statement the icon “died peacefully surrounded by family, his bandmates and friends,… https://t.co/Eqsy7I1RO6",Tue Oct 03 12:46:19 +0000 2017,30,0.5267,0.167,0.833,0.0
+131,CBSNews,"Musicians are remembering Tom Petty. Ahead, his biographer joins @CBSThisMorning to talk about how he used music to… https://t.co/ytT6ENEm4o",Tue Oct 03 12:43:01 +0000 2017,31,-0.2023,0.0,0.909,0.091
+132,CBSNews,SCOTUS is taking up a case about political maps in Wisconsin that could affect elections across the country:… https://t.co/pIeL5FqZzO,Tue Oct 03 12:40:02 +0000 2017,32,0.0,0.0,1.0,0.0
+133,CBSNews,UMCSN is the only level-one trauma center in Nevada. The trauma center’s medical director Dr. Fildes joins… https://t.co/vishrxZViS,Tue Oct 03 12:39:05 +0000 2017,33,-0.6808,0.0,0.741,0.259
+134,CBSNews,"As thousands of people scrambled for safety during the mass shooting in Las Vegas, others rushed to help the wounde… https://t.co/CqdP9UBwUF",Tue Oct 03 12:36:23 +0000 2017,34,0.6705,0.224,0.776,0.0
+135,CBSNews,Here’s a look at some of this morning’s other headlines on @CBSThisMorning https://t.co/1q5I6CwlBq,Tue Oct 03 12:34:16 +0000 2017,35,0.0,0.0,1.0,0.0
+136,CBSNews,People showed solidarity for the victims of the mass shooting by lining up to donate blood. Some waited up to 8 hou… https://t.co/UwiHRYhib4,Tue Oct 03 12:33:05 +0000 2017,36,-0.0258,0.09,0.816,0.094
+137,CBSNews,"AHEAD on @CBSThisMorning: Hospitals asked the people of Las Vegas for one thing, and they’ve been lining up for hou… https://t.co/ZNumO0LjZa",Tue Oct 03 12:22:56 +0000 2017,37,0.0,0.0,1.0,0.0
+138,CBSNews,"The man who led Boston police during the marathon bombing calls the Las Vegas attack, law enforcement's ""worst fear… https://t.co/GNVFF3UIJ1",Tue Oct 03 12:20:30 +0000 2017,38,-0.802,0.0,0.714,0.286
+139,CBSNews,ISIS claims responsibility for a pair of suicide bombings that killed 17 civilians and policemen in Damascus:… https://t.co/9kbpW3JgHD,Tue Oct 03 12:20:02 +0000 2017,39,-0.875,0.0,0.625,0.375
+140,CBSNews,AHEAD on @CBSThisMorning: How the Las Vegas attack highlights the challenge of securing hotels around the country https://t.co/R9m6qhjGkw,Tue Oct 03 12:15:03 +0000 2017,40,-0.128,0.166,0.691,0.143
+141,CBSNews,"Before the massacre, @NorahODonnell spoke with Rep. Steve Scalise about gun control. The @60Minutes interview was h… https://t.co/qUmrK5TYhm",Tue Oct 03 12:14:56 +0000 2017,41,-0.34,0.0,0.876,0.124
+142,CBSNews,"More details have emerged about Las Vegas gunman, Stephen Paddock, and his arsenal. He had 23 guns in his hotel roo… https://t.co/XpPKfooG0H",Tue Oct 03 12:09:11 +0000 2017,42,0.0,0.0,1.0,0.0
+143,CBSNews,.@adrianasdiaz is at a memorial for the victims along the Las Vegas strip. She has more on their stories:… https://t.co/OxEpGH3yfR,Tue Oct 03 12:06:47 +0000 2017,43,-0.3182,0.0,0.887,0.113
+144,CBSNews,59 people were killed in the deadliest attack in the U.S. since 9/11. @NorahODonnell is near the scene in Las Vegas… https://t.co/Qsx16xzx5E,Tue Oct 03 12:04:41 +0000 2017,44,-0.8225,0.0,0.725,0.275
+145,CBSNews,A 29-year-old veteran stole a truck and transported dozens to the hospital after the Las Vegas shooting:… https://t.co/qsw88wGtEh,Tue Oct 03 12:00:02 +0000 2017,45,0.0,0.0,1.0,0.0
+146,CBSNews,Here’s a look at some of this morning’s other headlines on @CBSThisMorning https://t.co/u9XK8J6bfx,Tue Oct 03 11:53:36 +0000 2017,46,0.0,0.0,1.0,0.0
+147,CBSNews,"The country music community is rallying together in the wake of the mass shooting, with hundreds at a candlelight v… https://t.co/rcvM8CR2R9",Tue Oct 03 11:45:35 +0000 2017,47,0.0,0.0,1.0,0.0
+148,CBSNews,"“A good samaritan, who was a concert goer -- she was also a paramedic -- helped us put her in a truck,” Ostunio say… https://t.co/cOPAO1HsSQ",Tue Oct 03 11:43:18 +0000 2017,48,0.4404,0.121,0.879,0.0
+149,CBSNews,AHEAD on @CBSThisMorning: Musicians describe their feelings in the wake of the attack that targeted their fans https://t.co/DuGIpx7AI7,Tue Oct 03 11:43:14 +0000 2017,49,-0.4767,0.0,0.846,0.154
+150,CBSNews,"“First responders were there when we hopped the fence. And this was in minutes,” Ostunio says of fleeing the mass s… https://t.co/Fo5RUnMMf5",Tue Oct 03 11:41:47 +0000 2017,50,0.0,0.0,1.0,0.0
+151,CBSNews,One of the victims of the Las Vegas mass shooting spent his final minutes in the arms of a total stranger:… https://t.co/YdCn44HSgU,Tue Oct 03 11:40:01 +0000 2017,51,-0.3182,0.0,0.897,0.103
+152,CBSNews,Joseph Ostunio and his friend were in the crowd when shots filled the air. Ostunio joins @CBSThisMorning to talk ab… https://t.co/JovvUcX6mO,Tue Oct 03 11:38:12 +0000 2017,52,0.4939,0.138,0.862,0.0
+153,CBSNews,"Instead of fleeing the scene of the shooting, Marine veteran Taylor Winston drove more than 20 victims to the hospi… https://t.co/mXrZ0cN6c8",Tue Oct 03 11:36:19 +0000 2017,53,-0.3744,0.0,0.886,0.114
+154,CBSNews,Here are 3 things you should know after 59 people were killed in the deadliest attack in the U.S. since 9/11: https://t.co/KosNvnulrG,Tue Oct 03 11:34:59 +0000 2017,54,-0.8225,0.0,0.714,0.286
+155,CBSNews,RT @CBSThisMorning: Here's a look at this morning's newspapers across the country following the deadliest mass shooting in modern American…,Tue Oct 03 11:25:07 +0000 2017,55,0.0,0.0,1.0,0.0
+156,CBSNews,COMING UP on @CBSThisMorning: The country music community is coming together in the wake of the mass shooting in La… https://t.co/LXcTAk720h,Tue Oct 03 11:23:03 +0000 2017,56,0.0,0.0,1.0,0.0
+157,CBSNews,Fans and fellow musicians are remembering rock legend Tom Petty. The 66-year-old music icon died Monday… https://t.co/UwAkObpwjo,Tue Oct 03 11:19:48 +0000 2017,57,-0.6597,0.0,0.735,0.265
+158,CBSNews,President Trump is visiting Puerto Rico Tuesday with plans to meet with Hurricane Maria victims and their families… https://t.co/dLJfkzABWL,Tue Oct 03 11:18:18 +0000 2017,58,-0.3182,0.0,0.887,0.113
+159,CBSNews,"Investigators are learning more about the alleged Las Vegas gunman, Stephen Paddock, as they search for a motive:… https://t.co/HLdB3NqQa4",Tue Oct 03 11:17:22 +0000 2017,59,0.0,0.0,1.0,0.0
+160,CBSNews,"Concert-goers who were not injured became first responders, moving victims to safety and driving them to hospitals… https://t.co/LkGLTUNFqB",Tue Oct 03 11:13:27 +0000 2017,60,0.4133,0.226,0.671,0.103
+161,CBSNews,"The alleged gunman, Stephen Paddock, checked into Mandalay Bay on Thursday. Over next 3 days, he brought in bags of… https://t.co/98QCbgeFhm",Tue Oct 03 11:11:46 +0000 2017,61,0.0,0.0,1.0,0.0
+162,CBSNews,One of the victims was 23-year-old Jordan McIldoon who spent his final minutes in the arms of a total stranger… https://t.co/yYqdt3eXB5,Tue Oct 03 11:11:14 +0000 2017,62,-0.3182,0.0,0.892,0.108
+163,CBSNews,"Trump administration will ask Cuba to withdraw 60% of its diplomats from the U.S., officials confirm to CBS News:… https://t.co/hVHTJGd0Z9",Tue Oct 03 11:10:01 +0000 2017,63,0.0,0.0,1.0,0.0
+164,CBSNews,59 people were killed and at least 527 injured in Sunday's massacre. @NorahODonnell reports near Mandalay Bay… https://t.co/rjVyNUQE5C,Tue Oct 03 11:06:45 +0000 2017,64,-0.802,0.0,0.69,0.31
+165,CBSNews,"RT @CBSThisMorning: NOW: @CBSThisMorning is live in the East. @NorahODonnell leads our coverage, live from Las Vegas. https://t.co/Y6eqc1UJ…",Tue Oct 03 11:03:13 +0000 2017,65,0.0,0.0,1.0,0.0
+166,CBSNews,"Minutes after the shooting at a concert in Las Vegas began, first responders scrambled to the scene. We'll learn mo… https://t.co/RcfMtF1jRe",Tue Oct 03 10:50:01 +0000 2017,66,0.0,0.0,1.0,0.0
+167,CBSNews,"With the GOP in the majority, Congress is unlikely to consider gun control measures any time soon:… https://t.co/thcOt7N9Tz",Tue Oct 03 10:45:02 +0000 2017,67,-0.34,0.0,0.876,0.124
+168,CBSNews,RT @CBSThisMorning: .@NorahODonnell  leads our coverage from Las Vegas with latest on the investigation into the deadliest mass shooting in…,Tue Oct 03 10:40:34 +0000 2017,68,0.0,0.0,1.0,0.0
+169,CBSNews,"RT @CBSThisMorning: Minutes after the shooting at a concert in Las Vegas began, first responders scrambled to the scene. We'll learn more o…",Tue Oct 03 10:40:34 +0000 2017,69,0.0,0.0,1.0,0.0
+170,CBSNews,"""Everybody was coming together."" Learn how good Samaritans rescued victims in Sunday's mass shooting in Las Vegas.… https://t.co/3UehO5PizM",Tue Oct 03 10:35:02 +0000 2017,70,0.5267,0.248,0.652,0.1
+171,CBSNews,Five people are in custody after an apparent failed bombing attempt in a chic Paris neighborhood:… https://t.co/Vs0yHoJxjF,Tue Oct 03 10:25:02 +0000 2017,71,-0.296,0.108,0.722,0.17
+172,CBSNews,.@CBSThisMorning's @NorahODonnell anchors live from Las Vegas after a gunman shot &amp; killed 59 people from his hotel… https://t.co/bFwwvphF0J,Tue Oct 03 10:15:01 +0000 2017,72,-0.6705,0.0,0.791,0.209
+173,CBSNews,"""It feels like someone has opened a window into hell."" Jimmy Kimmel rips gun control foes post-Vegas shooting:… https://t.co/k81vUhrOuH",Tue Oct 03 10:01:01 +0000 2017,73,-0.4404,0.109,0.655,0.236
+174,CBSNews,"As a gunman unleashed a barrage of bullets on a Las Vegas music festival, a photographer captured powerful images… https://t.co/OcEwcpaLBM",Tue Oct 03 09:01:01 +0000 2017,74,0.7184,0.3,0.7,0.0
+175,CBSNews,These are the stories of heroism emerging from the harrowing scene of Sunday's Las Vegas attack… https://t.co/kNhINn3YZ5,Tue Oct 03 08:00:01 +0000 2017,75,0.5859,0.192,0.808,0.0
+176,CBSNews,"In the wake of the deadliest mass shooting in U.S. history, gun makers' stocks climbed: https://t.co/fCpBwl3Syc https://t.co/X3XmPMIucK",Tue Oct 03 07:00:01 +0000 2017,76,-0.34,0.0,0.87,0.13
+177,CBSNews,"Lady Gaga, others call for tighter gun control after Las Vegas attack becomes deadliest mass shooting in US history… https://t.co/u2gtNZSosy",Tue Oct 03 06:00:01 +0000 2017,77,-0.6705,0.0,0.766,0.234
+178,CBSNews,A trauma surgeon describes how hospitals respond to mass casualty events like the Las Vegas attack:… https://t.co/DFW8ra7N3i,Tue Oct 03 05:30:01 +0000 2017,78,-0.5719,0.115,0.599,0.286
+179,CBSNews,"Tom Petty, best known as the leading singer for Tom Petty and the Heartbreakers, has died at the age of 66.… https://t.co/nMl0l8Sffe",Tue Oct 03 05:15:34 +0000 2017,79,-0.6249,0.133,0.54,0.327
+180,CBSNews,"JUST IN: Legendary rocker Tom Petty has died at 66, his longtime manager confirms. https://t.co/dUIoL7sZd8 https://t.co/wkw3grsWtb",Tue Oct 03 04:37:26 +0000 2017,80,-0.6597,0.0,0.722,0.278
+181,CBSNews,"""Every penny will be put to use."" GoFundMe started for Las Vegas victims has raised more than $2.5 million… https://t.co/6BOeGgmxkY",Tue Oct 03 04:01:02 +0000 2017,81,-0.3182,0.0,0.892,0.108
+182,CBSNews,"""You could hear the shots going back and forth and ricocheting."" How the deadliest shooting in U.S. history unfolde… https://t.co/wrPFSRfhbD",Tue Oct 03 03:46:02 +0000 2017,82,0.0,0.0,1.0,0.0
+183,CBSNews,42 guns belonging to the Las Vegas shooter were recovered -- 23 firearms were found in his Mandalay Bay hotel suite… https://t.co/F5mVUv7aCy,Tue Oct 03 03:19:34 +0000 2017,83,0.0,0.0,1.0,0.0
+184,CBSNews,Father of Las Vegas attack gunman was on the FBI's Ten Most Wanted list half a century ago https://t.co/zVd1aqwOiO https://t.co/pO11Rtutb2,Tue Oct 03 03:00:02 +0000 2017,84,-0.4767,0.0,0.853,0.147
+185,CBSNews,"With only 5 states and D.C. prohibiting open carry of firearms, Americans can bring guns to some unusual places… https://t.co/MNme1KQn6u",Tue Oct 03 02:40:02 +0000 2017,85,0.0,0.0,1.0,0.0
+186,CBSNews,RT @CBSThisMorning: .@MGMResortsIntl has a dedicated hotline for out of town families of Las Vegas shooting victims to arrange airfare and…,Tue Oct 03 02:23:11 +0000 2017,86,0.1779,0.129,0.773,0.099
+187,CBSNews,"Clark County Commissioner Steve Sisolak says the GoFundMe account has received over 30,000 donations, exceeding $2.… https://t.co/qzKfQ4VuTe",Tue Oct 03 02:21:54 +0000 2017,87,0.0,0.0,1.0,0.0
+188,CBSNews,Las Vegas Metro PD Asst. Sheriff Todd Fasulo says the GoFundMe page is best way to show support for victims. https://t.co/NZeb1Gozoz,Tue Oct 03 02:15:39 +0000 2017,88,0.6808,0.254,0.662,0.085
+189,CBSNews,NOW: Las Vegas officials hold evening update on mass shooting that left dozens dead https://t.co/5lfSKSzx6X,Tue Oct 03 02:05:07 +0000 2017,89,-0.6486,0.0,0.765,0.235
+190,CBSNews,"Jordan McIldoon, a 23-year-old mechanic's apprentice, died in Las Vegas; ""we only had one child,"" his parents said… https://t.co/mg0AQjyyE4",Tue Oct 03 02:00:02 +0000 2017,90,-0.5574,0.0,0.825,0.175
+191,CBSNews,At least 2 House Democrats didn't participate in the moment of silence for victims in the deadly Las Vegas shooting… https://t.co/cJkFu0fVu1,Tue Oct 03 01:51:03 +0000 2017,91,-0.3182,0.0,0.892,0.108
+192,CBSNews,"When it comes to gun laws, the gulf in Washington is as wide as ever, even between congressional gun victims… https://t.co/g5DzOw37OW",Tue Oct 03 01:20:01 +0000 2017,92,-0.5859,0.0,0.798,0.202
+193,CBSNews,"Attorney Jennifer Topaz died in the Las Vegas attack; a co-worker remembered her as ""kind, generous, and beautiful""… https://t.co/lJtoquK4r0",Tue Oct 03 01:00:07 +0000 2017,93,-0.5267,0.132,0.6,0.268
+194,CBSNews,"On one of America's darkest days, powerful stories of heroism emerge from scene of Las Vegas attack… https://t.co/6cSb0HezIC",Tue Oct 03 00:45:16 +0000 2017,94,0.5267,0.266,0.605,0.129
+195,CBSNews,"Four hours after it began, GoFundMe page for Las Vegas victims more than half way to its goal of $2 million… https://t.co/gTKkatKLSR",Tue Oct 03 00:30:02 +0000 2017,95,-0.3182,0.0,0.901,0.099
+196,CBSNews,"Lisa Romero, described by a friend as ""a sweet and beautiful woman,"" was among the victims killed in Las Vegas… https://t.co/4QAVkzs3n9",Tue Oct 03 00:15:01 +0000 2017,96,0.5106,0.317,0.47,0.213
+197,CBSNews,"HAPPENING NOW: @mayoroflasvegas, faith leaders hold prayer vigil for victims of Las Vegas massacre https://t.co/q8KKNcGT6K",Tue Oct 03 00:07:07 +0000 2017,97,0.128,0.155,0.718,0.127
+198,CBSNews,Facebook says Russia-linked ads were seen by an estimated 10 million people before and after the 2016 election… https://t.co/bQmuvkPYrf,Tue Oct 03 00:00:02 +0000 2017,98,0.0,0.0,1.0,0.0
+199,CBSNews,"Lady Gaga, others call for tighter gun control after Las Vegas attack becomes deadliest mass shooting in US history… https://t.co/KzhDlYZzTT",Mon Oct 02 23:45:01 +0000 2017,99,-0.6705,0.0,0.766,0.234
+200,CNN,"Trump: “I hate to tell you, Puerto Rico, but you’ve thrown our budget a little out of whack” https://t.co/sYZ09oUwUG https://t.co/CqdM8KQdi9",Tue Oct 03 16:31:59 +0000 2017,0,-0.3291,0.0,0.885,0.115
+201,CNN,New York's alleged 'Chelsea bomber' removed from court on trial's first day https://t.co/4kxfD22HmD,Tue Oct 03 16:29:38 +0000 2017,1,0.0,0.0,1.0,0.0
+202,CNN,Las Vegas is the latest addition to a terrible list: the deadliest single day mass shootings in modern US history… https://t.co/jAO2LWIam6,Tue Oct 03 16:08:37 +0000 2017,2,-0.4767,0.0,0.86,0.14
+203,CNN,San Juan mayor says she has accepted an invitation to attend a briefing with President Trump https://t.co/nx4AvHLogd https://t.co/DfivpSWq5C,Tue Oct 03 15:59:34 +0000 2017,3,0.2732,0.116,0.884,0.0
+204,CNN,"Elizabeth Warren to Wells Fargo CEO: ""You should be fired"" https://t.co/ZvfXY5huSL",Tue Oct 03 15:48:09 +0000 2017,4,-0.3818,0.137,0.616,0.247
+205,CNN,"Republican senator asks Wells Fargo CEO: ""What in God's name were you thinking?"" https://t.co/TNs7dbpU28",Tue Oct 03 15:36:41 +0000 2017,5,0.25,0.133,0.867,0.0
+206,CNN,A GoFundMe account raising funds for Las Vegas victims has collected more than $3 million https://t.co/pkvjZwsJIG,Tue Oct 03 15:24:59 +0000 2017,6,-0.3182,0.0,0.859,0.141
+207,CNN,"The Kremlin hopes Jon Huntsman, the new US ambassador to Russia, will help warm US-Russia relations… https://t.co/pM85F4lwjY",Tue Oct 03 15:19:03 +0000 2017,7,0.7506,0.346,0.654,0.0
+208,CNN,Whole Foods is stealing Walmart and Trader Joe's customers with its low prices https://t.co/jTw09CJRtD,Tue Oct 03 15:07:46 +0000 2017,8,-0.7003,0.0,0.674,0.326
+209,CNN,"CNN's Sanjay Gupta is in San Juan, Puerto Rico, answering questions about relief efforts following Hurricane Maria… https://t.co/JKxPwKZAfn",Tue Oct 03 14:57:36 +0000 2017,9,0.4767,0.154,0.846,0.0
+210,CNN,"Jason Aldean talks about his anger, heartache and fear after Las Vegas tragedy that left 59 dead, hundreds injured… https://t.co/vXT0Q8wXXT",Tue Oct 03 14:56:52 +0000 2017,10,-0.9485,0.0,0.506,0.494
+211,CNN,"Jimmy Kimmel opened his show with a raw, emotional call for action on gun violence https://t.co/ddNQGaaA0L https://t.co/P3oUDlD3Xr",Tue Oct 03 14:46:34 +0000 2017,11,-0.7096,0.076,0.616,0.308
+212,CNN,"You don't need a permit to buy a gun in Nevada, and it's legal to own assault weapons and large-capacity magazines… https://t.co/gw189PND6w",Tue Oct 03 14:31:23 +0000 2017,12,-0.8225,0.056,0.602,0.342
+213,CNN,A man put his body on the line to save strangers he had never met to help them survive the Las Vegas shooting… https://t.co/WwcbpCvhTL,Tue Oct 03 14:26:28 +0000 2017,13,0.2363,0.121,0.794,0.085
+214,CNN,"The Eiffel Tower in Paris, France, went dark in a tribute to the victims of attacks in Las Vegas and Marseille… https://t.co/SzTsXAbYzO",Tue Oct 03 14:21:29 +0000 2017,14,-0.6369,0.0,0.785,0.215
+215,CNN,"The US is expected to ask Cuba to cut its diplomatic staff by two-thirds as a reciprocal measure, US officials say… https://t.co/x9ExndJZ2W",Tue Oct 03 14:10:10 +0000 2017,15,-0.2732,0.0,0.905,0.095
+216,CNN,President Trump goes to Puerto Rico. Follow live updates: https://t.co/Y3j43Z7Qcr https://t.co/eKuK7N4bt1,Tue Oct 03 14:00:14 +0000 2017,16,0.0,0.0,1.0,0.0
+217,CNN,"9-year-old survivor of Las Vegas shooting says he felt safe with his mom because ""I knew she would protect me"" https://t.co/oMk6UJIIie",Tue Oct 03 13:51:08 +0000 2017,17,0.7906,0.308,0.692,0.0
+218,CNN,"Latest on Las Vegas massacre:
+
+- 59 dead, 527 injured
+- 42 guns found in shooter’s home, hotel room
+- Motive unknow… https://t.co/46lFCdlJgA",Tue Oct 03 13:50:08 +0000 2017,18,-0.7906,0.0,0.72,0.28
+219,CNN,"President Trump: The US will ""be talking about gun laws as time goes by"" https://t.co/B0EtaJi1wE https://t.co/3LeNOzutZg",Tue Oct 03 13:40:07 +0000 2017,19,-0.34,0.0,0.862,0.138
+220,CNN,House to vote on legislation that would criminalize abortions after 20 weeks of pregnancy https://t.co/ErIN3nZ1em https://t.co/ppbvOqqiS2,Tue Oct 03 13:30:08 +0000 2017,20,0.0,0.0,1.0,0.0
+221,CNN,"The Las Vegas shooter had brought ""in excess of 10"" suitcases to his room over several days, police said… https://t.co/eI7aCKSQd2",Tue Oct 03 13:18:09 +0000 2017,21,0.0,0.0,1.0,0.0
+222,CNN,"A nurse, a teacher and a police employee were among the Las Vegas shooting victims. These are some of their stories… https://t.co/YhGzOeXkbQ",Tue Oct 03 13:08:04 +0000 2017,22,-0.3182,0.0,0.887,0.113
+223,CNN,"RT @NewDay: Las Vegas mayor: ""This crazy miscreant will not define who this community is"" https://t.co/FsC8rWF7Vd",Tue Oct 03 13:02:17 +0000 2017,23,-0.34,0.0,0.862,0.138
+224,CNN,"""Music... is the only real magic that I know."" -- Tom Petty https://t.co/IIeDdE57ce https://t.co/W3FPc2iaO3",Tue Oct 03 12:45:13 +0000 2017,24,-0.2023,0.0,0.87,0.13
+225,CNN,"Las Vegas shooting survivor to rescuer: ""I just want to tell him how grateful I am for basically saving my life""… https://t.co/paz9cakV9v",Tue Oct 03 12:37:52 +0000 2017,25,0.7003,0.274,0.726,0.0
+226,CNN,How US gun culture compares with the world in 5 charts https://t.co/Ip85BxEjyi https://t.co/CXQXTWbWAm,Tue Oct 03 12:20:07 +0000 2017,26,-0.34,0.0,0.821,0.179
+227,CNN,"5 things for Tuesday:
+
+- Las Vegas shooting
+- Puerto Rico
+- Facebook and Russia
+- Wells Fargo
+- Tom Petty… https://t.co/G9thccZ4bA",Tue Oct 03 12:10:04 +0000 2017,27,0.25,0.118,0.882,0.0
+228,CNN,He was there to photograph a concert. It turned into a massacre. https://t.co/CYgBEJRzRY https://t.co/WfISluu2vw,Tue Oct 03 12:00:12 +0000 2017,28,0.0,0.0,1.0,0.0
+229,CNN,The father of the Las Vegas shooter was previously on the FBI's Most Wanted list https://t.co/a9H89cSzNE https://t.co/GeVBhEjd0I,Tue Oct 03 11:50:07 +0000 2017,29,0.0,0.0,1.0,0.0
+230,CNN,"President Trump begins two days of consolation, traveling to Puerto Rico today and Las Vegas on Wednesday… https://t.co/6BPaGY9w35",Tue Oct 03 11:45:07 +0000 2017,30,0.0,0.0,1.0,0.0
+231,CNN,"RT @NewDay: Woman describes friend who was killed in Las Vegas shooting: ""She's just a sweetheart, definitely."" https://t.co/caevHDArC5",Tue Oct 03 11:39:22 +0000 2017,31,0.4588,0.288,0.538,0.173
+232,CNN,"Rohingya refugees who fled Myanmar are now living in fear in India -- 40,000 face the threat of deportation… https://t.co/5kednni7nu",Tue Oct 03 11:30:13 +0000 2017,32,-0.765,0.0,0.732,0.268
+233,CNN,"RT @NewDay: Montana couple helped others during Las Vegas shooting. ""The vast majority of people have such goodness in them."" https://t.co/…",Tue Oct 03 11:25:40 +0000 2017,33,0.4588,0.13,0.87,0.0
+234,CNN,"Latest on Las Vegas massacre:
+
+- 59 dead, 527 injured
+- 42 guns found in shooter’s home, hotel room
+- Motive unknow… https://t.co/AA5KAm7lmF",Tue Oct 03 11:20:08 +0000 2017,34,-0.7906,0.0,0.72,0.28
+235,CNN,The Trump administration has proposed sharp cuts to programs that seek to prevent domestic terrorism… https://t.co/HmbHYvtFxK,Tue Oct 03 11:15:09 +0000 2017,35,-0.2732,0.064,0.809,0.127
+236,CNN,Majorities of both US main political parties back an assault weapons ban and creating a database to track gun sales… https://t.co/vw1mTEzUmx,Tue Oct 03 11:05:05 +0000 2017,36,-0.8316,0.155,0.443,0.402
+237,CNN,8 charts that explain America's gun culture https://t.co/7YqDDneGHN https://t.co/xBHKKylmDk,Tue Oct 03 10:56:12 +0000 2017,37,-0.34,0.0,0.745,0.255
+238,CNN,What happened inside the Las Vegas shooter's suite at the Mandalay Bay hotel https://t.co/Dq1yr0CV5D https://t.co/ELpmhXuMZT,Tue Oct 03 10:50:06 +0000 2017,38,0.0,0.0,1.0,0.0
+239,CNN,Outdoor playtime might help kids' eyesight https://t.co/BxsA7hM1Hd https://t.co/vxsxuU1iAx,Tue Oct 03 10:45:57 +0000 2017,39,0.4019,0.278,0.722,0.0
+240,CNN,What the Las Vegas killing spree could mean for the gun industry https://t.co/tviS2kGDo8 https://t.co/Mc98JaQs0Z,Tue Oct 03 10:40:09 +0000 2017,40,-0.7783,0.0,0.638,0.362
+241,CNN,House to vote on legislation that would criminalize abortions after 20 weeks of pregnancy https://t.co/BRHu7sD4H2 https://t.co/oizWnAQTAl,Tue Oct 03 10:35:06 +0000 2017,41,0.0,0.0,1.0,0.0
+242,CNN,RT @cnntech: Equifax will alert the additional potentially affected consumers by mail. https://t.co/sOAA5fBHgK,Tue Oct 03 10:34:52 +0000 2017,42,0.1531,0.149,0.743,0.108
+243,CNN,"RT @CNNent: Tom Petty has died at the age of 66. His music career spanned decades -- here's a look back 
+https://t.co/A5Z6b4W90u https://t.…",Tue Oct 03 10:34:24 +0000 2017,43,-0.6597,0.0,0.787,0.213
+244,CNN,"The Las Vegas shooter had brought ""in excess of 10"" suitcases to his room over several days, police said… https://t.co/pwEDjhCTne",Tue Oct 03 10:28:42 +0000 2017,44,0.0,0.0,1.0,0.0
+245,CNN,Albert Einstein in 1916 said he believed that gravitational waves existed https://t.co/hl1TkqSAFP #NobelPrize,Tue Oct 03 10:21:37 +0000 2017,45,0.0,0.0,1.0,0.0
+246,CNN,.@caltech says gravitational waves are caused by some of the most violent and energetic processes in the universe https://t.co/cpCxU6HY3e,Tue Oct 03 10:20:04 +0000 2017,46,-0.2568,0.13,0.698,0.172
+247,CNN,"Gravitational waves are ""ripples"" in the fabric of space-time, @caltech explains https://t.co/5ceIAh6vuh #NobelPrize",Tue Oct 03 10:18:52 +0000 2017,47,0.0,0.0,1.0,0.0
+248,CNN,JUST IN: #NobelPrize in physics goes to three scientists for their work in detecting gravitational waves… https://t.co/SHCrQTyrM0,Tue Oct 03 10:17:00 +0000 2017,48,0.0,0.0,1.0,0.0
+249,CNN,This antique Chinese bowl fetched a whopping $38 million at auction today https://t.co/9M40qEc7V6 https://t.co/bkvqgyhDMx,Tue Oct 03 10:08:38 +0000 2017,49,0.0,0.0,1.0,0.0
+250,CNN,"Police had no prior knowledge of the Las Vegas gunman before the attack, they said https://t.co/de1UraK3Se https://t.co/7zOykOjzch",Tue Oct 03 10:01:41 +0000 2017,50,-0.6486,0.0,0.739,0.261
+251,CNN,"Three and a half years after MH370 disappeared, we're no closer to knowing its fate https://t.co/CZgArrorFM https://t.co/dgYqtUpptE",Tue Oct 03 09:55:08 +0000 2017,51,-0.4767,0.0,0.773,0.227
+252,CNN,The father of the Las Vegas shooter was previously on the FBI's Most Wanted list https://t.co/4tfR1sM1AW https://t.co/HL9tuJCD1S,Tue Oct 03 09:48:48 +0000 2017,52,0.0,0.0,1.0,0.0
+253,CNN,Police found 23 weapons in the Las Vegas shooter's hotel room -- but we still don't know his motive… https://t.co/Pem6kns7Re,Tue Oct 03 09:42:30 +0000 2017,53,-0.2382,0.0,0.907,0.093
+254,CNN,Google and Facebook are being criticized for helping spread bad information after the Las Vegas attack… https://t.co/yUGQakMhJM,Tue Oct 03 09:36:20 +0000 2017,54,-0.5859,0.099,0.631,0.27
+255,CNN,"Tesla planned to build 1,500 of the Model 3 in the third quarter. 
+
+The actual number it built? 260.… https://t.co/rYNk4TMcUt",Tue Oct 03 09:30:10 +0000 2017,55,0.0772,0.067,0.933,0.0
+256,CNN,Why the Las Vegas horror is unlikely to shift the gun debate | Analysis by @StCollinson https://t.co/kAdcxFKktR https://t.co/89zxf7gLBB,Tue Oct 03 09:20:04 +0000 2017,56,-0.7269,0.0,0.711,0.289
+257,CNN,At least 59 people died in the Las Vegas shooting. Here's what we know about the 32nd-floor room in the Mandalay Ba… https://t.co/69OqOmmNq1,Tue Oct 03 09:10:03 +0000 2017,57,-0.5574,0.0,0.859,0.141
+258,CNN,Spain is facing a political crisis after Catalans voted in favor of independence in a contested referendum… https://t.co/RlKKor3hUU,Tue Oct 03 09:00:12 +0000 2017,58,-0.34,0.13,0.673,0.197
+259,CNN,"You don't need a permit to buy a gun in Nevada, and it's legal to own assault weapons and large-capacity magazines… https://t.co/jy3qHGHk3Z",Tue Oct 03 08:55:54 +0000 2017,59,-0.8225,0.056,0.602,0.342
+260,CNN,Facebook says Russian-bought political ads reached an estimated 10 million people  https://t.co/t3YsIMEzJ1,Tue Oct 03 08:49:50 +0000 2017,60,0.1027,0.113,0.887,0.0
+261,CNN,"Las Vegas shooting survivor to rescuer: ""I just want to tell him how grateful I am for basically saving my life""… https://t.co/9GAmzAEFNN",Tue Oct 03 08:40:18 +0000 2017,61,0.7003,0.274,0.726,0.0
+262,CNN,"Rohingya refugees who fled Myanmar are now living in fear in India -- 40,000 Rohingya face the threat of deportatio… https://t.co/yCEwZLWPks",Tue Oct 03 08:30:06 +0000 2017,62,-0.765,0.0,0.742,0.258
+263,CNN,This is what happened the night bullets rained down on Las Vegas https://t.co/npKrDbRb2t https://t.co/DLMT65lrJC,Tue Oct 03 08:21:04 +0000 2017,63,0.0,0.0,1.0,0.0
+264,CNN,"The Eiffel Tower in Paris, France, goes dark in a tribute to the victims of attacks in Las Vegas and Marseille… https://t.co/OQd69PbgJZ",Tue Oct 03 08:20:06 +0000 2017,64,-0.6369,0.0,0.785,0.215
+265,CNN,The music world reacts to losing one of its greatest songwriters -- rock legend Tom Petty has died at the age of 66… https://t.co/hSJEQ3Q9Ou,Tue Oct 03 08:11:06 +0000 2017,65,-0.4215,0.13,0.621,0.248
+266,CNN,"Doctors suspected that a woman had lymphoma, but her ""tumor"" was found to be black tattoo pigment https://t.co/Om7PwC4b8A",Tue Oct 03 08:01:01 +0000 2017,66,-0.1154,0.0,0.917,0.083
+267,CNN,"""Music... is the only real magic that I know."" Rock star Tom Petty dies at the age of 66 https://t.co/BidmR6i6BZ https://t.co/MLMp9GUXrh",Tue Oct 03 07:50:14 +0000 2017,67,-0.2023,0.0,0.913,0.087
+268,CNN,Las Vegas investigation: Police discover arsenal of weapons but motive of shooter remains unknown… https://t.co/vSjHgm7Crx,Tue Oct 03 07:31:10 +0000 2017,68,-0.2382,0.0,0.878,0.122
+269,CNN,Journalists who happened to be in Nevada for O.J. Simpson's release quickly moved to cover the Las Vegas shooting https://t.co/3W7oXyiATQ,Tue Oct 03 07:31:08 +0000 2017,69,0.0,0.0,1.0,0.0
+270,CNN,"The ""city of Las Vegas"" was successful in saving more than 527 lives following the mass shooting, paramedic says… https://t.co/8I1W4BnGVM",Tue Oct 03 07:12:33 +0000 2017,70,0.5859,0.167,0.833,0.0
+271,CNN,"Entertainment giants, tech startups and pizza shops are stepping up to support the grieving Las Vegas community… https://t.co/1VAPdqbtRK",Tue Oct 03 07:02:22 +0000 2017,71,0.296,0.231,0.63,0.139
+272,CNN,Three European airlines have gone belly up since August. What's going on? https://t.co/P8UykySyAA https://t.co/brMQduvNko,Tue Oct 03 06:31:05 +0000 2017,72,0.0,0.0,1.0,0.0
+273,CNN,"""The Simpsons"" took a break from comedy Sunday night to make a serious appeal for Puerto Rico aid… https://t.co/nz3OPGoDkw",Tue Oct 03 06:31:03 +0000 2017,73,0.296,0.133,0.798,0.069
+274,CNN,At least 59 people died in the shooting on the Las Vegas Strip. Here we remember those who have been named so far… https://t.co/PFb0pAjiko,Tue Oct 03 06:18:10 +0000 2017,74,-0.5574,0.0,0.865,0.135
+275,CNN,"""I felt like there's no way I'm not going to be hit with a bullet."" Witness gives his account of Las Vegas shooting… https://t.co/tD8J1YeFzN",Tue Oct 03 06:09:49 +0000 2017,75,0.0772,0.097,0.817,0.086
+276,CNN,Pulse nightclub survivor’s letter to Las Vegas: “Orlando is standing with you.” https://t.co/l1ozHANAKE,Tue Oct 03 06:01:04 +0000 2017,76,0.0,0.0,1.0,0.0
+277,CNN,Las Vegas residents stepped up to donate blood and help victims of the deadliest mass shooting in modern US history… https://t.co/JJCbrsH7YP,Tue Oct 03 05:46:10 +0000 2017,77,0.1027,0.113,0.792,0.096
+278,CNN,"Vigils are held across the US for victims of Sunday's shooting in Las Vegas, which left at least 59 people dead… https://t.co/udpScAyX1l",Tue Oct 03 05:40:50 +0000 2017,78,-0.3182,0.0,0.901,0.099
+279,CNN,Three US scientists have won the Nobel Prize in Physiology or Medicine for body clock insights… https://t.co/SxirThoUSb,Tue Oct 03 05:31:04 +0000 2017,79,0.7906,0.318,0.682,0.0
+280,CNN,A band frontman hid in a freezer with other concertgoers as the mass shooting on the Las Vegas Strip took place… https://t.co/UwZx8UnMMv,Tue Oct 03 05:25:08 +0000 2017,80,-0.1027,0.0,0.931,0.069
+281,CNN,"Facebook says an estimated 10M people were reached by the 3,000 ads it says were bought by Russia-linked accounts… https://t.co/E12EAbxOll",Tue Oct 03 05:15:05 +0000 2017,81,0.1027,0.069,0.931,0.0
+282,CNN,"Officials in Las Vegas say they don't need any more blood donations right now; there has been ""overwhelming turnout"" https://t.co/0qTJXteHTM",Tue Oct 03 05:07:05 +0000 2017,82,0.0,0.0,1.0,0.0
+283,CNN,“It's like an asteroid fell out of the sky... It just makes no sense”: Las Vegas gunman’s brother speaks to CNN… https://t.co/QM6dSI8br3,Tue Oct 03 04:59:29 +0000 2017,83,0.0772,0.101,0.81,0.089
+284,CNN,Tom Petty has died at the age of 66. His music career spanned decades -- here's a look back https://t.co/aVqggFwcUq https://t.co/NxWqG5ejPr,Tue Oct 03 04:52:52 +0000 2017,84,-0.6597,0.0,0.769,0.231
+285,CNN,"Las Vegas shooting survivor to rescuer: If he's watching, ""I really just want to tell him how grateful I am for bas… https://t.co/O1uVUo2nxp",Tue Oct 03 04:40:27 +0000 2017,85,0.7251,0.271,0.729,0.0
+286,CNN,“The most unimaginable event”: Country music stars react to Las Vegas concert shooting https://t.co/5AZA9FL0uI https://t.co/kugfOawUxh,Tue Oct 03 04:31:07 +0000 2017,86,0.0,0.0,1.0,0.0
+287,CNN,"""Music... is the only real magic that I know."" Rock star Tom Petty dies at the age of 66 https://t.co/LKbRoymcwY https://t.co/Ca7WZcjFsj",Tue Oct 03 04:28:41 +0000 2017,87,-0.2023,0.0,0.913,0.087
+288,CNN,JUST IN: Rock star Tom Petty dies at the age of 66 after suffering a cardiac arrest at his California home… https://t.co/8ftkrvFjtN,Tue Oct 03 04:18:09 +0000 2017,88,-0.743,0.0,0.711,0.289
+289,CNN,"Project Hope is supporting local health clinics in Puerto Rico, as well as looking for those who are stranded https://t.co/ibsF6IIdHD",Tue Oct 03 04:15:06 +0000 2017,89,0.7845,0.317,0.683,0.0
+290,CNN,US Supreme Court Justice Neil Gorsuch could be the tie-breaker in a major immigration case https://t.co/CNQ9of6F6b https://t.co/O9h8Sh1FfH,Tue Oct 03 04:01:07 +0000 2017,90,0.7906,0.333,0.667,0.0
+291,CNN,Spain is facing a political crisis after Catalans voted in favor of independence in a contested referendum… https://t.co/B8zCSaUgxq,Tue Oct 03 03:54:06 +0000 2017,91,-0.34,0.13,0.673,0.197
+292,CNN,"Gabby Giffords' husband Mark Kelly on Las Vegas shooting: ""We can make changes to prevent these things from happeni… https://t.co/BM2seWF6Wl",Tue Oct 03 03:45:46 +0000 2017,92,0.0258,0.055,0.945,0.0
+293,CNN,This is what we know so far about the man behind the mass shooting on the Las Vegas Strip https://t.co/bfEoYreJJS,Tue Oct 03 03:34:00 +0000 2017,93,0.0,0.0,1.0,0.0
+294,CNN,"RT @CNNTonight: Rep. Ruben Kihuen: The gunman was mysterious even to a lot of people living in Mesquite, Nevada where he was living https:/…",Tue Oct 03 03:25:38 +0000 2017,94,0.0,0.0,1.0,0.0
+295,CNN,This is what happened the night bullets rained down on Las Vegas https://t.co/t5BPTG29aL https://t.co/zShNjVUMP5,Tue Oct 03 03:17:31 +0000 2017,95,0.0,0.0,1.0,0.0
+296,CNN,Las Vegas residents are stepping up to help victims of the deadliest mass shooting in modern US history… https://t.co/NJ1b7E0mBC,Tue Oct 03 03:04:43 +0000 2017,96,0.1027,0.123,0.773,0.105
+297,CNN,"The Eiffel Tower in Paris, France, goes dark in a tribute to the victims of attacks in Las Vegas and Marseille… https://t.co/oTzdRQBjyn",Tue Oct 03 02:52:44 +0000 2017,97,-0.6369,0.0,0.785,0.215
+298,CNN,"Las Vegas killer had an arsenal of 42 guns, 23 in his hotel room and 19 in his house, police say… https://t.co/fqJ7eDPmMW",Tue Oct 03 02:42:08 +0000 2017,98,-0.6486,0.0,0.83,0.17
+299,CNN,"RT @AC360: Crisis in Puerto Rico: Nearly two weeks after Hurricane Maria, 44% of the population still has no drinking water. https://t.co/4…",Tue Oct 03 02:30:15 +0000 2017,99,-0.743,0.0,0.76,0.24
+300,FoxNews,Colin Kaepernick and the history of national anthem protests https://t.co/7OTVcBgTqD #FoxNewsUS (via… https://t.co/os72kZ2qyI,Tue Oct 03 16:37:54 +0000 2017,0,-0.2263,0.0,0.863,0.137
+301,FoxNews,"Americans United: Not long before Vegas shooting, concertgoers proudly sang 'God Bless America' led by @BigandRich.… https://t.co/IJzp9ZoJFm",Tue Oct 03 16:32:23 +0000 2017,1,0.8834,0.465,0.535,0.0
+302,FoxNews,.@realDonaldTrump talks about recovery efforts after arriving with @FLOTUS in Puerto Rico to survey hurricane damage https://t.co/5VOPXZ1wuc,Tue Oct 03 16:21:00 +0000 2017,2,-0.4939,0.0,0.833,0.167
+303,FoxNews,Trump lands in hurricane-ravaged Puerto Rico as he defends administration’s storm response https://t.co/acJ4utVNbl,Tue Oct 03 16:19:22 +0000 2017,3,0.0,0.0,1.0,0.0
+304,FoxNews,President @realDonaldTrump arrived at Luis Muniz Air National Guard Base to survey hurricane damage and recovery ef… https://t.co/Uaf53O26NR,Tue Oct 03 16:15:29 +0000 2017,4,-0.4939,0.0,0.842,0.158
+305,FoxNews,".@POTUS: ""I've never seen people working so hard in my entire life."" https://t.co/14s2qbEEYZ",Tue Oct 03 16:10:21 +0000 2017,5,-0.2183,0.0,0.865,0.135
+306,FoxNews,".@POTUS in Puerto Rico: ""The whole team has been amazing."" https://t.co/MQ2YH1SeQ1",Tue Oct 03 16:07:04 +0000 2017,6,0.0,0.0,1.0,0.0
+307,FoxNews,MOMENTS AGO: @POTUS &amp; @FLOTUS arrived in Puerto Rico to see the damage wrought by Hurricane Maria https://t.co/4dVvZUWoPb,Tue Oct 03 15:53:23 +0000 2017,7,-0.4939,0.0,0.842,0.158
+308,FoxNews,.@Jason_Aldean on Las Vegas shooting: It is time we 'stand together as one' https://t.co/XZSOBRNO4s https://t.co/ImeedfOImo,Tue Oct 03 15:38:58 +0000 2017,8,0.0,0.0,1.0,0.0
+309,FoxNews,.@IngrahamAngle on Las Vegas shooting aftermath: “There is not a government solution for every problem.” https://t.co/iDLaFYveDu,Tue Oct 03 15:38:45 +0000 2017,9,-0.2411,0.0,0.877,0.123
+310,FoxNews,JUST IN: U.S Expels 15 Cuban Diplomats Today https://t.co/3U0GIzG3Vo https://t.co/Gej1Xvqvoi,Tue Oct 03 15:27:50 +0000 2017,10,-0.3818,0.0,0.776,0.224
+311,FoxNews,How Tom Petty's death was mistakenly reported hours before he died https://t.co/ropLAtxpT2,Tue Oct 03 15:14:53 +0000 2017,11,-0.8658,0.0,0.481,0.519
+312,FoxNews,"Country music's John Rich gave his gun to a police officer during Las Vegas shooting
+https://t.co/R2fqWidsCj",Tue Oct 03 15:10:07 +0000 2017,12,0.296,0.189,0.684,0.126
+313,FoxNews,"Witness to Las Vegas Shooting: ""You just don't know if you're going to make it."" https://t.co/XbWmYcafGv",Tue Oct 03 15:05:57 +0000 2017,13,0.0,0.0,1.0,0.0
+314,FoxNews,Former Equifax CEO Grilled on Capitol Hill https://t.co/A9UlXNWjMV https://t.co/BwMbGq0HFQ,Tue Oct 03 14:58:56 +0000 2017,14,0.0,0.0,1.0,0.0
+315,FoxNews,".@IngrahamAngle: 'Despicable' for Hillary, Democrats to Politicize Las Vegas Massacre https://t.co/tkwyhUHQwx",Tue Oct 03 14:51:54 +0000 2017,15,0.0,0.0,1.0,0.0
+316,FoxNews,Marilou Danley: What we know about Las Vegas shooting assailant's companion https://t.co/PCdMHO296M,Tue Oct 03 14:49:38 +0000 2017,16,0.0,0.0,1.0,0.0
+317,FoxNews,".@SenBillNelson on Las Vegas shooting: ""This is a time when our humanity has to overtake our politics."" https://t.co/PHW3dKBglw",Tue Oct 03 14:42:10 +0000 2017,17,0.0,0.0,1.0,0.0
+318,FoxNews,"Kathleen Sebelius, former HHS Secretary, to testify at Menendez corruption trial - via @brookefoxnews https://t.co/yyaJmW9qt2",Tue Oct 03 14:40:35 +0000 2017,18,0.0,0.0,1.0,0.0
+319,FoxNews,".@SpeakerRyan: ""We are all just reeling from this horror that we witnessed in Las Vegas."" https://t.co/5Q3NWdHAfc",Tue Oct 03 14:16:01 +0000 2017,19,-0.657,0.0,0.774,0.226
+320,FoxNews,".@SpeakerRyan: ""To see Steve Scalise standing right here, it is really a miracle. It's really good to have Steve ba… https://t.co/wLMANwzatR",Tue Oct 03 14:12:43 +0000 2017,20,0.8067,0.288,0.712,0.0
+321,FoxNews,Las Vegas shooting: Remembering the fallen https://t.co/0g5v5rks7H,Tue Oct 03 14:00:06 +0000 2017,21,-0.3612,0.0,0.706,0.294
+322,FoxNews,".@RichLowry: ""The problem with the gun control advocates... they offer ideas that would have nothing to do with pre… https://t.co/5Wv68IKBOe",Tue Oct 03 13:52:25 +0000 2017,22,-0.6249,0.0,0.779,0.221
+323,FoxNews,"Adrienne Elrod: ""Every time we have one of these mass shootings, congress debates this... and then nothing gets don… https://t.co/gmMMTf5fXG",Tue Oct 03 13:48:36 +0000 2017,23,0.0,0.0,1.0,0.0
+324,FoxNews,5 arrested in Paris after wired explosives found in posh neighborhood (via @travfed)   https://t.co/N9a5AwzZUn,Tue Oct 03 13:35:01 +0000 2017,24,-0.4767,0.0,0.795,0.205
+325,FoxNews,"The lights of the Eiffel Tower were turned off last night in Paris, France to pay tribute to Las Vegas and Marseill… https://t.co/W6LJmJxtjP",Tue Oct 03 13:20:03 +0000 2017,25,-0.1027,0.0,0.94,0.06
+326,FoxNews,"Nicole Sailers, witness: ""I was scared the whole time."" https://t.co/1bt2E9ydCu",Tue Oct 03 13:11:53 +0000 2017,26,-0.4404,0.0,0.756,0.244
+327,FoxNews,".@POTUS on the shooter: ""He was a sick man, a demented man... We're dealing with a very, very sick individual."" https://t.co/3A3rKTZCLr",Tue Oct 03 13:11:17 +0000 2017,27,-0.765,0.0,0.708,0.292
+328,FoxNews,WATCH: @bigandrich Sings 'God Bless America' With Crowd Before Las Vegas Shooting https://t.co/A3yHmBw4ws,Tue Oct 03 12:57:04 +0000 2017,28,0.5994,0.308,0.692,0.0
+329,FoxNews,Guitarist From Las Vegas Festival: 'I Was Wrong. We Need Gun Control Now' https://t.co/k157QScxpD,Tue Oct 03 12:36:32 +0000 2017,29,-0.3182,0.162,0.558,0.279
+330,FoxNews,.@IngrahamAngle on Las Vegas shooting aftermath: “There is not a government solution for every problem.”… https://t.co/8JHtOoPMwk,Tue Oct 03 12:24:06 +0000 2017,30,-0.2411,0.0,0.877,0.123
+331,FoxNews,.@IngrahamAngle on Las Vegas shooting: “People want to believe there’s some explanation for this and that is also t… https://t.co/03C706zWRt,Tue Oct 03 12:11:21 +0000 2017,31,0.0772,0.064,0.936,0.0
+332,FoxNews,.@SheriffClarke on @foxandfriends: “I’ve been in law enforcement for nearly 40 years and I’m suspicious about every… https://t.co/t3MHNCPbsA,Tue Oct 03 11:59:39 +0000 2017,32,-0.3612,0.0,0.872,0.128
+333,FoxNews,.@GeraldoRivera on hurricane recovery in Puerto Rico: Just five percent of the Puerto Rican people have electricity… https://t.co/hhWZL7bUOa,Tue Oct 03 11:56:30 +0000 2017,33,0.0,0.0,1.0,0.0
+334,FoxNews,.@SheriffClarke: We Must Find Balance Between Defending the Public &amp; Protecting People's Constitutional Rights https://t.co/U5MCoQXZHw,Tue Oct 03 11:51:42 +0000 2017,34,0.0,0.0,1.0,0.0
+335,FoxNews,".@POTUS to visit Las Vegas on Wednesday, days after massacre https://t.co/Qc9gRyFSTs",Tue Oct 03 11:42:20 +0000 2017,35,0.0,0.0,1.0,0.0
+336,FoxNews,"Tom Petty dead at 66: Musicians, celebrities react https://t.co/1jfq8zjCb7",Tue Oct 03 11:38:46 +0000 2017,36,-0.7269,0.0,0.534,0.466
+337,FoxNews,.@realbobmassi on Las Vegas shooting aftermath: “The town really came together.” @foxandfriends https://t.co/65fRcbE2v1,Tue Oct 03 11:36:19 +0000 2017,37,0.0,0.0,1.0,0.0
+338,FoxNews,Retired Las Vegas Police Captain: We Have to Start Thinking Outside the Box https://t.co/oBC3HvBu7L,Tue Oct 03 11:18:26 +0000 2017,38,0.0,0.0,1.0,0.0
+339,FoxNews,.@POTUS to visit Puerto Rico amid accusations of mishandling Hurricane Maria aftermath https://t.co/GBggIjiCMy,Tue Oct 03 11:04:46 +0000 2017,39,-0.3182,0.0,0.839,0.161
+340,FoxNews,"The lights of the Eiffel Tower were turned off last night in Paris, France to pay tribute to Las Vegas and Marseill… https://t.co/ItxRvTzAaR",Tue Oct 03 10:54:13 +0000 2017,40,-0.1027,0.0,0.94,0.06
+341,FoxNews,Las Vegas massacre: Remembering the fallen https://t.co/lYJnWJIIeZ,Tue Oct 03 10:52:34 +0000 2017,41,-0.3612,0.0,0.706,0.294
+342,FoxNews,"Tom Petty, who rose to fame in the ‘70s as the lead of Tom Petty and the Heartbreakers, died on Monday at age 66. https://t.co/uPhjIMbLES",Tue Oct 03 10:48:29 +0000 2017,42,-0.7506,0.087,0.602,0.31
+343,FoxNews,Stavros Anthony on @foxandfriends: We’re going to have to start thinking about some things that we may need to do t… https://t.co/eYeJIOOtKq,Tue Oct 03 10:46:03 +0000 2017,43,0.0,0.0,1.0,0.0
+344,FoxNews,Christopher Scalia on @foxandfriends: “We need to be vigilant about our morality and our values.” https://t.co/BQJ6J7P2i2,Tue Oct 03 10:35:12 +0000 2017,44,0.1779,0.102,0.898,0.0
+345,FoxNews,".@KayaJones on @foxandfriends: “We cannot allow any kind of terrorism, whether it’s foreign or domestic, to take co… https://t.co/w57lbbMgwA",Tue Oct 03 10:25:55 +0000 2017,45,-0.7621,0.0,0.722,0.278
+346,FoxNews,.@adamhousley on Las Vegas shooting: “People are still looking for loved ones here.” https://t.co/fgdWe35CAF https://t.co/ZJJ1jeR6DZ,Tue Oct 03 10:13:29 +0000 2017,46,0.5994,0.218,0.782,0.0
+347,FoxNews,"Exclusive look at Vegas hotel room, a year before shooting https://t.co/m3Hq8a1eEB",Tue Oct 03 09:50:13 +0000 2017,47,0.128,0.143,0.857,0.0
+348,FoxNews,In an Instagram post singer @Jason_Aldean expressed the many emotions he's gone through over the last 24 hours. https://t.co/OxKJ7kSQDk,Tue Oct 03 09:45:15 +0000 2017,48,0.0,0.0,1.0,0.0
+349,FoxNews,‘I hope nobody tries to pin any of this on you’: OJ Simpson’s lawyer spoke to client after Las Vegas shooting https://t.co/1fioFYtwHX,Tue Oct 03 09:27:18 +0000 2017,49,0.4404,0.121,0.879,0.0
+350,FoxNews,Trump leads moment of silence for Las Vegas victims https://t.co/9PnxWhjoXh https://t.co/ls3XKhUwn8,Tue Oct 03 09:19:03 +0000 2017,50,-0.3182,0.0,0.813,0.187
+351,FoxNews,"Sheriff David Clarke: ""We gotta find that balance between protecting the public... and preserving people's constitu… https://t.co/Yt0nBo6YvY",Tue Oct 03 09:17:32 +0000 2017,51,0.0,0.0,1.0,0.0
+352,FoxNews,"Sheriff David Clarke: ""Our see something say something campaign... I think needs to be reevaluated."" https://t.co/5rgMYOzgFf",Tue Oct 03 09:13:10 +0000 2017,52,0.0,0.0,1.0,0.0
+353,FoxNews,"Hotels take a new look at security after Las Vegas, but will customers sacrifice privacy? https://t.co/e9tGxZXV1L",Tue Oct 03 09:08:44 +0000 2017,53,0.1779,0.108,0.892,0.0
+354,FoxNews,The @EmpireStateBldg is lit in darkness with a rotating orange halo in sympathy for Las Vegas. https://t.co/GwOmiRXGlg,Tue Oct 03 08:59:01 +0000 2017,54,0.128,0.135,0.757,0.108
+355,FoxNews,"The lights of the Eiffel tower were turned off last night in Paris, France to pay tribute to Las Vegas and Marseill… https://t.co/BZpXOKWNFM",Tue Oct 03 08:38:16 +0000 2017,55,-0.1027,0.0,0.94,0.06
+356,FoxNews,Deadliest Shooting in US History https://t.co/8KCwN2y0XH https://t.co/GQfbeqny6w,Tue Oct 03 08:34:27 +0000 2017,56,0.0,0.0,1.0,0.0
+357,FoxNews,Legendary rock star Tom Petty dead at 66 https://t.co/uPhjIMbLES https://t.co/UjIgXJzMVH,Tue Oct 03 08:25:51 +0000 2017,57,-0.7269,0.0,0.567,0.433
+358,FoxNews,"Las Vegas massacre: GoFundMe page raises over $2M, volunteers wait for hours to donate blood https://t.co/mbWFv8vuhn",Tue Oct 03 08:12:47 +0000 2017,58,0.0,0.0,1.0,0.0
+359,FoxNews,Search for Motive Intensifies https://t.co/8KCwN2PBPf https://t.co/OEK0AyWdre,Tue Oct 03 08:11:58 +0000 2017,59,0.0,0.0,1.0,0.0
+360,FoxNews,"59 killed, 527 injured in Las Vegas shooting https://t.co/0RlQL6bxIh https://t.co/zZqQRRCw7y",Tue Oct 03 08:07:58 +0000 2017,60,-0.802,0.0,0.526,0.474
+361,FoxNews,Las Vegas Massacre https://t.co/fgdWe35CAF https://t.co/cb0R76HgwF,Tue Oct 03 08:06:34 +0000 2017,61,0.0,0.0,1.0,0.0
+362,FoxNews,White House backs bill criminalizing abortions after 20 weeks https://t.co/BNBJO0hxfU,Tue Oct 03 08:00:01 +0000 2017,62,-0.0516,0.0,0.882,0.118
+363,FoxNews,"Hotels take new look at security after Las Vegas, but will customers sacrifice privacy? https://t.co/e9tGxZXV1L",Tue Oct 03 07:45:01 +0000 2017,63,0.1779,0.108,0.892,0.0
+364,FoxNews,Comedy writer Megan Amram jokes Las Vegas shooter fits typical profile because he is a 'white man' https://t.co/xWMJYEdzCo,Tue Oct 03 07:21:50 +0000 2017,64,0.5423,0.231,0.769,0.0
+365,FoxNews,Benghazi trial begins: Prosecutors say alleged mastermind 'hates America' https://t.co/961bGVrBcF,Tue Oct 03 07:02:05 +0000 2017,65,-0.4404,0.0,0.756,0.244
+366,FoxNews,Las Vegas massacre recalls similar slaughter: Texas clock tower shooting https://t.co/GKZuLduwA5,Tue Oct 03 06:45:00 +0000 2017,66,0.0,0.0,1.0,0.0
+367,FoxNews,Scientologist Kirstie Alley: Psychiatric drugs common denominator in mass shooters https://t.co/PsE8ClMVhj,Tue Oct 03 06:30:00 +0000 2017,67,0.0,0.0,1.0,0.0
+368,FoxNews,"Las Vegas shooter's father, 'Bingo Bruce,' lived colorful life of crime and deception https://t.co/76x8g07kQw",Tue Oct 03 06:15:00 +0000 2017,68,-0.7506,0.0,0.652,0.348
+369,FoxNews,"Las Vegas massacre: GoFundMe page raises over $2M, volunteers wait for hours to donate blood https://t.co/mbWFv8vuhn",Tue Oct 03 06:00:00 +0000 2017,69,0.0,0.0,1.0,0.0
+370,FoxNews,Gun stocks higher after Las Vegas shooting https://t.co/qSmLJ62VPO via @FoxBusiness,Tue Oct 03 05:45:00 +0000 2017,70,-0.34,0.0,0.789,0.211
+371,FoxNews,ABC News' Terry Moran blasts 'right-wing media' on heels of Vegas massacre https://t.co/JvU8a1L0hv via @briansflood,Tue Oct 03 05:34:17 +0000 2017,71,0.0,0.0,1.0,0.0
+372,FoxNews,"Trump to visit Las Vegas on Wednesday, days after massacre https://t.co/Qc9gRyFSTs",Tue Oct 03 05:05:23 +0000 2017,72,0.0,0.0,1.0,0.0
+373,FoxNews,Legendary rock star Tom Petty dead at 66 https://t.co/uPhjILUagi https://t.co/6uESMGh4Nu,Tue Oct 03 04:35:05 +0000 2017,73,-0.7269,0.0,0.567,0.433
+374,FoxNews,"BREAKING: Rocker Tom Petty has died at the age of 66, a spokeswoman says",Tue Oct 03 04:13:43 +0000 2017,74,-0.6597,0.0,0.671,0.329
+375,FoxNews,"RT @FoxBusiness: Las Vegas Shooting: Pelosi calls for select committee on gun violence, stronger background checks https://t.co/WLaThwJYYY",Tue Oct 03 03:43:39 +0000 2017,75,-0.5994,0.113,0.606,0.281
+376,FoxNews,"Tel Aviv, Israel municipal building is lit up like the US flag in solidarity with victims of the #LasVegas shooting… https://t.co/4pvqTHXbJI",Tue Oct 03 03:40:04 +0000 2017,76,0.34,0.188,0.72,0.092
+377,FoxNews,"Dem Rep. Green calls off #Trump impeachment push, after Vegas massacre https://t.co/XLPko1dZfI",Tue Oct 03 03:14:36 +0000 2017,77,0.0,0.0,1.0,0.0
+378,FoxNews,.@USNavy sailors salute the ensign on the flight deck of the USS Michael Murphy. It was flown at half-mast in honor… https://t.co/neZ3sYxXbD,Tue Oct 03 03:05:16 +0000 2017,78,0.0,0.0,1.0,0.0
+379,FoxNews,"#Tucker, @NRA-Friendly Democrat Discuss Rush to Call for Gun Control https://t.co/Bc33bRIGQg",Tue Oct 03 02:47:13 +0000 2017,79,-0.34,0.0,0.806,0.194
+380,FoxNews,ABC News' Terry Moran blasts 'right-wing media' on heels of Vegas massacre https://t.co/31ffvy1LyB,Tue Oct 03 02:46:23 +0000 2017,80,0.0,0.0,1.0,0.0
+381,FoxNews,"#LasVegas massacre: GoFundMe page raises over $2M, volunteers wait for hours to donate blood https://t.co/SK4S7j50or",Tue Oct 03 02:33:13 +0000 2017,81,0.0,0.0,1.0,0.0
+382,FoxNews,.@seanhannity on Dems' Gun Control Push After Tragedy: 'The Left Has No Shame' | #Hannity https://t.co/6QkioNPb30,Tue Oct 03 02:30:58 +0000 2017,82,-0.9022,0.0,0.476,0.524
+383,FoxNews,"Referees bowed their heads before Monday night's @NFL game, during a moment of silence for the victims of the… https://t.co/ZXtMo2WfZc",Tue Oct 03 02:27:02 +0000 2017,83,-0.3182,0.0,0.887,0.113
+384,FoxNews,"Lt. Gov. Mark Hutchison: ""We will get through this together with our faith in God, and the American and Nevadan spi… https://t.co/9zY79Dc5oo",Tue Oct 03 02:19:26 +0000 2017,84,0.5994,0.197,0.803,0.0
+385,FoxNews,"Police: Number of injured remains at 527, number of dead still 59. https://t.co/reSCUDlsHM | #LasVegas https://t.co/d70Zhc1blD",Tue Oct 03 02:07:10 +0000 2017,85,-0.7506,0.126,0.534,0.34
+386,FoxNews,"Official: ""We are aware of the rumors...that there was more than one assailant, we have no information or evidence… https://t.co/DZmfyyiznH",Tue Oct 03 02:04:39 +0000 2017,86,-0.296,0.0,0.896,0.104
+387,FoxNews,"#LasVegas Shooting: Festival banned attendees from carrying firearms
+ https://t.co/PruMyZNcw8",Tue Oct 03 01:53:23 +0000 2017,87,0.0516,0.242,0.53,0.227
+388,FoxNews,".@KayaJones: ""Honor the dead...It's about them today. It's not about the shooter, it's not about a gun, it's not ab… https://t.co/MTAgIG0rKA",Tue Oct 03 01:41:25 +0000 2017,88,0.6412,0.225,0.775,0.0
+389,FoxNews,"The @celtics stood for a moment of silence for victims of the #LasVegas concert shooting, prior to Monday night's… https://t.co/fE462qKgav",Tue Oct 03 01:35:43 +0000 2017,89,-0.3182,0.0,0.887,0.113
+390,FoxNews,".@SebGorka: ""People like Bernie Sanders, people like Hillary Clinton, are actually trying to profit politically fro… https://t.co/JxIFJqyp1G",Tue Oct 03 01:19:11 +0000 2017,90,0.7845,0.361,0.639,0.0
+391,FoxNews,.@HillaryClinton slammed for ‘ignorant’ statement on guns after #LasVegas shooting https://t.co/Qc5EVE5TOe,Tue Oct 03 00:57:43 +0000 2017,91,0.0,0.0,1.0,0.0
+392,FoxNews,".@HeyTammyBruce on @HillaryClinton: ""This is a woman without any details...moving immediately into a political fram… https://t.co/npNKJqBmX1",Tue Oct 03 00:53:16 +0000 2017,92,0.0,0.0,1.0,0.0
+393,FoxNews,"#LasVegas police, feds race to uncover what drove 'aggressively unfriendly' gunman with weapons arsenal to kill https://t.co/EWlR34MLnT",Tue Oct 03 00:43:33 +0000 2017,93,-0.9081,0.0,0.512,0.488
+394,FoxNews,"Jonathan Hunt: ""The worst of times so often brings out the best in the human spirit."" https://t.co/reSCUDlsHM |… https://t.co/d3JQfQ4jyN",Tue Oct 03 00:36:40 +0000 2017,94,0.0258,0.166,0.672,0.162
+395,FoxNews,"Vegas shooter's weapons cache included devices enabling automatic gunfire, report says https://t.co/GGTJfBEtKH",Tue Oct 03 00:29:33 +0000 2017,95,-0.4404,0.0,0.791,0.209
+396,FoxNews,"Witness: ""It was just by the grace of God that we were already towards the outskirts of the crowd by the time the r… https://t.co/KyvSsHQuQP",Tue Oct 03 00:18:57 +0000 2017,96,0.5994,0.176,0.824,0.0
+397,FoxNews,"Witness: ""People were pushing and shoving and jumping fences and falling on each other just trying to get out as qu… https://t.co/I2BoQ3gTsl",Tue Oct 03 00:18:08 +0000 2017,97,-0.1531,0.0,0.929,0.071
+398,FoxNews,.@BigKennyTV recalls the moments after the #LasVegas shooter opened fire on the concert-goers.… https://t.co/gQZpSdpfg0,Tue Oct 03 00:08:49 +0000 2017,98,-0.34,0.0,0.844,0.156
+399,FoxNews,".@POTUS earlier: ""In moments of tragedy and horror, America comes together as one, and it always has.""… https://t.co/qwbxkhJ62Y",Tue Oct 03 00:00:21 +0000 2017,99,-0.8442,0.0,0.664,0.336
+400,nytimes,The NYT obit of Tom Petty https://t.co/RQHmLtAacR,Tue Oct 03 16:18:49 +0000 2017,0,-0.2023,0.0,0.769,0.231
+401,nytimes,A fourth woman has accused Roman Polanski of sexually abusing her when she was a teenager https://t.co/1wMTvLua5F,Tue Oct 03 16:01:07 +0000 2017,1,-0.6369,0.0,0.714,0.286
+402,nytimes,"On Monday, Trump called the Las Vegas massacre “pure evil.” Notably, he avoided the word “terrorism.” https://t.co/xawHZ3vf0W",Tue Oct 03 15:48:59 +0000 2017,2,-0.34,0.0,0.87,0.13
+403,nytimes,RT @nytgraphics: The pattern of gunshots during the Las Vegas shooting: https://t.co/BAiDvDlRlv,Tue Oct 03 15:31:00 +0000 2017,3,0.0,0.0,1.0,0.0
+404,nytimes,Breaking News: The U.S. expelled 15 Cuban diplomats in response to an illness that afflicted 22 Americans in Havana https://t.co/frwLMHmb6u,Tue Oct 03 15:13:41 +0000 2017,4,-0.7351,0.0,0.702,0.298
+405,nytimes,Opinion: An unfit president fails Puerto Rico https://t.co/pNHh2jjol0,Tue Oct 03 15:05:03 +0000 2017,5,-0.4215,0.0,0.714,0.286
+406,nytimes,Here's what NYT reporters and photographers saw in just one 24-hour stretch in Puerto Rico https://t.co/kZrUQpney5,Tue Oct 03 14:55:02 +0000 2017,6,0.0,0.0,1.0,0.0
+407,nytimes,A Times reporter — and Marine veteran — analyzes the gunfire that left at least 59 dead in Las Vegas https://t.co/jpQYioqHJO,Tue Oct 03 14:45:13 +0000 2017,7,-0.6486,0.0,0.798,0.202
+408,nytimes,The Louvre has withdrawn a large installation for being sexually explicit https://t.co/CmjQy7j7OO,Tue Oct 03 14:30:18 +0000 2017,8,0.0,0.0,1.0,0.0
+409,nytimes,Growing up in prison https://t.co/QyFMwbpr0q,Tue Oct 03 14:14:06 +0000 2017,9,-0.3818,0.212,0.375,0.412
+410,nytimes,RT @nytgraphics: A diagram of a typical suite at the Las Vegas hotel where a gunman fired into a crowd. https://t.co/qQ64gXiJeh https://t.c…,Tue Oct 03 14:05:45 +0000 2017,10,-0.5574,0.0,0.825,0.175
+411,nytimes,Morning Briefing: Here's what you need to know to start your day https://t.co/XWZ6JjAWtQ https://t.co/fACo3Rho8G,Tue Oct 03 14:00:27 +0000 2017,11,0.0,0.0,1.0,0.0
+412,nytimes,"The police retrieved firearms, explosives, ammunition and ""electronic devices"" from Stephen Paddock's home https://t.co/8wNLJO0OEV",Tue Oct 03 13:50:05 +0000 2017,12,0.0,0.0,1.0,0.0
+413,nytimes,"RT @dougmillsnyt: .@realDonaldTrump and @FLOTUS board Air Force One at Joint Andrews Base, Md. for a trip to San Juan, Puerto Rico. #Hurric…",Tue Oct 03 13:43:13 +0000 2017,13,0.0,0.0,1.0,0.0
+414,nytimes,A potentially harmful algae bloom covered more than 700 square miles in the western basin of Lake Erie last week https://t.co/sfmE8TfIiD,Tue Oct 03 13:40:13 +0000 2017,14,0.0,0.0,1.0,0.0
+415,nytimes,How do you tell a story about the destruction of the world? https://t.co/U8jUmBPRwe,Tue Oct 03 13:30:09 +0000 2017,15,-0.5719,0.0,0.748,0.252
+416,nytimes,"Marilou Danley, a woman described as Stephen Paddock's ""companion,"" has been cleared by the authorities https://t.co/OyLEU9u5v5",Tue Oct 03 13:16:03 +0000 2017,16,0.1027,0.091,0.909,0.0
+417,nytimes,The Supreme Court is set to hear arguments in a case that could reshape American democracy https://t.co/MJ17m7oDwl,Tue Oct 03 13:00:15 +0000 2017,17,0.2263,0.177,0.69,0.133
+418,nytimes,"Stephen Paddock brought at least 10 suitcases into his hotel room over a period of time, Sheriff Lombardo said https://t.co/mERFn7h0WE",Tue Oct 03 12:51:04 +0000 2017,18,0.0,0.0,1.0,0.0
+419,nytimes,Three scientists won the Nobel Prize in Physics for discovering gravitational waves https://t.co/Bz3yc0zg51,Tue Oct 03 12:45:06 +0000 2017,19,0.7906,0.389,0.611,0.0
+420,nytimes,"Some of Trump's aides worried that he could be set off by protests in Puerto Rico, @MaggieNYT writes https://t.co/ldoBntGpzF",Tue Oct 03 12:30:13 +0000 2017,20,-0.4767,0.0,0.806,0.194
+421,nytimes,"The NYT review of ""Blade Runner 2049"" https://t.co/9UU92ShNPW",Tue Oct 03 12:16:04 +0000 2017,21,0.0,0.0,1.0,0.0
+422,nytimes,Morning Briefing: Here's what you need to know to start your day https://t.co/0a6ONccQjO https://t.co/OvAOk5h26i,Tue Oct 03 12:00:13 +0000 2017,22,0.0,0.0,1.0,0.0
+423,nytimes,A registered nurse. A commercial fisherman. A school librarian. These are some of the victims of Las Vegas shooting. https://t.co/mpwi8rAb1d,Tue Oct 03 11:45:05 +0000 2017,23,-0.3182,0.0,0.874,0.126
+424,nytimes,"""I'm inside the Mandalay Bay on the 31st floor, I can hear the automatic fire,"" an officer said https://t.co/3WyHtVWZGc",Tue Oct 03 11:15:08 +0000 2017,24,0.0,0.0,1.0,0.0
+425,nytimes,Investigators combed through Stephen Paddock's background and searched his home. Live updates: https://t.co/w6NVMxW3Yb,Tue Oct 03 11:07:03 +0000 2017,25,0.0,0.0,1.0,0.0
+426,nytimes,What we know about one of the deadliest mass shootings in American history https://t.co/jCWaTEO0bI,Tue Oct 03 10:51:03 +0000 2017,26,0.0,0.0,1.0,0.0
+427,nytimes,"Jimmy Kimmel, a son of Las Vegas, delivered one of the most emotionally searing monologues in his show's history https://t.co/EXwFsxUuwo",Tue Oct 03 10:44:07 +0000 2017,27,0.0,0.0,1.0,0.0
+428,nytimes,Morning Briefing: Here's what you need to know to start your day https://t.co/15SHTuQ2C7 https://t.co/CBV6DizCwL,Tue Oct 03 10:30:12 +0000 2017,28,0.0,0.0,1.0,0.0
+429,nytimes,Scott Pruitt's calendar shows fine dining with officials from companies he regulates https://t.co/3w8eAF3byq,Tue Oct 03 10:20:08 +0000 2017,29,0.2023,0.13,0.87,0.0
+430,nytimes,"Einstein predicted the existence of gravitational waves, but until now, they were undetectable https://t.co/JjFBLexoQU",Tue Oct 03 10:10:00 +0000 2017,30,0.0,0.0,1.0,0.0
+431,nytimes,Breaking News: Three scientists won the Nobel Prize in Physics for discovering gravitational waves https://t.co/4k5UzJfumz,Tue Oct 03 10:00:59 +0000 2017,31,0.7906,0.35,0.65,0.0
+432,nytimes,"Even at major hotels, security teams are often lightly staffed and poorly paid https://t.co/nubOLjoV9A",Tue Oct 03 09:59:03 +0000 2017,32,0.34,0.156,0.844,0.0
+433,nytimes,"“I’ve been a nurse for 30 years, and this was by far the worst moment I’ve had, the worst injuries” https://t.co/6LQOixazrq",Tue Oct 03 09:45:06 +0000 2017,33,-0.8481,0.0,0.687,0.313
+434,nytimes,"Opinion: ""Strong-arm tactics by the Spanish government will only draw more support for the Catalan secessionists"" https://t.co/wJI372VwaV",Tue Oct 03 09:32:06 +0000 2017,34,0.4576,0.158,0.842,0.0
+435,nytimes,Here are some of Tom Petty's best songs https://t.co/tfQ28jHqVD,Tue Oct 03 09:14:03 +0000 2017,35,0.6369,0.344,0.656,0.0
+436,nytimes,How the Las Vegas shooting unfolded https://t.co/XqDTfOhNut,Tue Oct 03 09:00:12 +0000 2017,36,0.0,0.0,1.0,0.0
+437,nytimes,We deleted this earlier tweet for confusing framing. https://t.co/utSewxqoef https://t.co/HQ1cq4oKDl,Tue Oct 03 08:49:38 +0000 2017,37,-0.2263,0.0,0.826,0.174
+438,nytimes,Adrian Murfitt had been working 16-hour days all summer as a commercial fisherman in Alaska. He took a vacation. https://t.co/WySsfPJiMV,Tue Oct 03 08:45:10 +0000 2017,38,0.0,0.0,1.0,0.0
+439,nytimes,"""Very long hours of extremely low pay makes any driver a dangerous driver,"" a reader said about Uber https://t.co/tWEvLHjVdw",Tue Oct 03 08:45:00 +0000 2017,39,-0.7328,0.0,0.661,0.339
+440,nytimes,"Jimmy Kimmel, a son of Las Vegas, delivered one of the most emotionally searing monologues in his show's history https://t.co/KvkRtIG0xA",Tue Oct 03 08:31:03 +0000 2017,40,0.0,0.0,1.0,0.0
+441,nytimes,RT @nytimesworld: The Catalan situation has put the EU and its members in an awkward position https://t.co/r9PBf1Uew8,Tue Oct 03 08:16:02 +0000 2017,41,-0.1531,0.0,0.909,0.091
+442,nytimes,"RT @nytimesmusic: Tom Petty, a songwriter who melded California rock with a Southern heritage, has died after suffering cardiac arrest http…",Tue Oct 03 07:55:05 +0000 2017,42,-0.872,0.0,0.579,0.421
+443,nytimes,An Uber driver’s question for London: Would you have banned this company if we had been white and English? https://t.co/trsDHerusu,Tue Oct 03 07:40:03 +0000 2017,43,-0.4588,0.0,0.864,0.136
+444,nytimes,"RT @matthewhaag: Las Vegas gunman’s father was a con man, a bank robber and made the FBI Most Wanted list. https://t.co/EW4hUeTAsk",Tue Oct 03 07:25:05 +0000 2017,44,-0.5574,0.0,0.833,0.167
+445,nytimes,The Roman Catholic Church offers to protect police officers who want to testify on the Philippines’ bloody drug war https://t.co/byUpzHTZSI,Tue Oct 03 07:10:02 +0000 2017,45,-0.5994,0.146,0.599,0.255
+446,nytimes,The free Afghan media has grown since the Taliban's fall. The success often overshadows the draining work and risks. https://t.co/T68d2GXdKw,Tue Oct 03 06:52:30 +0000 2017,46,0.7096,0.268,0.651,0.08
+447,nytimes,The tussle over what terrorism is dates from the start of its modern history. Does the Las Vegas attack qualify? https://t.co/r4RM3srWJ4,Tue Oct 03 06:35:03 +0000 2017,47,-0.8271,0.0,0.712,0.288
+448,nytimes,"Living atop a landfill on the edge of Mongolia’s capital: ""Nobody cares about us"" https://t.co/sMPHpcXXk0",Tue Oct 03 06:20:03 +0000 2017,48,0.4588,0.188,0.812,0.0
+449,nytimes,"The Las Vegas gunman’s father robbed banks, once escaped from a federal prison and made the FBI Most Wanted list https://t.co/tWZ8GxYFm9",Tue Oct 03 06:05:04 +0000 2017,49,-0.5106,0.0,0.852,0.148
+450,nytimes,"False ISIS connections, nonexistent victims and other misinformation in the wake of the Las Vegas shooting https://t.co/qN4RLj2aOK",Tue Oct 03 05:50:05 +0000 2017,50,-0.5574,0.0,0.765,0.235
+451,nytimes,Here are some of Tom Petty's best songs https://t.co/wjbOmxVhPd,Tue Oct 03 05:20:06 +0000 2017,51,0.6369,0.344,0.656,0.0
+452,nytimes,"RT @nytopinion: Spain's prime minister has cynically, irresponsibly fanned the flames of crisis in Catalonia, writes @CarlosDelclos https:/…",Tue Oct 03 05:02:06 +0000 2017,52,-0.7506,0.0,0.714,0.286
+453,nytimes,One student raised a fist. The other got down on one knee. Both were immediately told to hand in their uniforms. https://t.co/CI7O00GdO9,Tue Oct 03 04:47:06 +0000 2017,53,0.4939,0.138,0.862,0.0
+454,nytimes,How the Las Vegas shooting unfolded https://t.co/BM4IUDFgcM,Tue Oct 03 04:32:03 +0000 2017,54,0.0,0.0,1.0,0.0
+455,nytimes,"Tom Petty melded California rock with a deep, stubborn Southern heritage. He died after suffering cardiac arrest. https://t.co/6yer44XHox",Tue Oct 03 04:17:23 +0000 2017,55,-0.9118,0.0,0.469,0.531
+456,nytimes,"Tom Petty has died at 66. With hits like “Refugee” and “Free Fallin’,” he was a rock radio staple for decades. https://t.co/SY46z7imV5",Tue Oct 03 04:12:29 +0000 2017,56,-0.4404,0.097,0.695,0.208
+457,nytimes,The Russians who posed as Americans on Facebook last year tried on quite an array of disguises https://t.co/9xBS6e7Cgv,Tue Oct 03 04:02:03 +0000 2017,57,-0.25,0.0,0.895,0.105
+458,nytimes,"RT @nytopinion: Don’t let anyone intimidate you from talking about gun safety now, writes @DLeonhardt https://t.co/JSA0rL74oc",Tue Oct 03 03:47:05 +0000 2017,58,-0.1027,0.14,0.65,0.21
+459,nytimes,"When they heard the shooting, Sonny Melton grabbed his wife's hand, and they ran. She made it. He didn't. https://t.co/csL3z6XQVT",Tue Oct 03 03:32:05 +0000 2017,59,0.4939,0.144,0.856,0.0
+460,nytimes,"RT @UpshotNYT: Where experts and the public agree on how to prevent gun deaths.
+https://t.co/2mX3Sa1n3i",Tue Oct 03 03:17:04 +0000 2017,60,0.0516,0.2,0.667,0.133
+461,nytimes,Opinion: 477 days. 521 mass shootings. Zero action from Congress. https://t.co/F2gSHhQkLZ,Tue Oct 03 03:02:02 +0000 2017,61,0.0,0.0,1.0,0.0
+462,nytimes,Caleb Keeter of Josh Abbott Band said that the Las Vegas shooting had changed his mind on the issue of gun rights… https://t.co/rHySOkCCTq,Tue Oct 03 02:47:05 +0000 2017,62,-0.34,0.0,0.902,0.098
+463,nytimes,RT @nytgraphics The pattern of gunshots during the Las Vegas shooting: https://t.co/xWy0yx3shO,Tue Oct 03 02:32:05 +0000 2017,63,0.0,0.0,1.0,0.0
+464,nytimes,The NYT movie review of “Blade Runner 2049” https://t.co/OW3asvusj4,Tue Oct 03 02:17:06 +0000 2017,64,0.0,0.0,1.0,0.0
+465,nytimes,Las Vegas police found an arsenal in the gunman’s hotel room. Latest updates: https://t.co/PbauzwHmMP,Tue Oct 03 02:02:06 +0000 2017,65,0.0,0.0,1.0,0.0
+466,nytimes,RT @nytpolitics: Trump once promised he wouldn't raise taxes on anyone in the middle class. Republicans won't promise that now. https://t.c…,Tue Oct 03 01:47:04 +0000 2017,66,0.1376,0.107,0.81,0.084
+467,nytimes,"Stories of Puerto Rico residents cleaning up their streets, and sharing electricity, medicine and food, are legion https://t.co/v0iqwaJnia",Tue Oct 03 01:32:01 +0000 2017,67,0.4215,0.141,0.859,0.0
+468,nytimes,"Opinion: ""What we need most of all isn’t mourning, but action to lower the toll of guns in America"" https://t.co/Wr9ilBGa01",Tue Oct 03 01:17:04 +0000 2017,68,-0.5789,0.0,0.791,0.209
+469,nytimes,Documents provide an internal look at how officials rolled out Trump's first travel ban https://t.co/zPCNwBE2ld,Tue Oct 03 01:02:05 +0000 2017,69,-0.5574,0.0,0.795,0.205
+470,nytimes,"Tech companies should act decisively to prevent hoaxes and misinformation from spreading, @kevinroose writes https://t.co/N3GnHJw3wQ",Tue Oct 03 00:47:03 +0000 2017,70,-0.296,0.067,0.793,0.14
+471,nytimes,"RT @nytimesmusic: CBS erroneously reports Tom Petty’s death, setting off an outpouring https://t.co/Ly9r68Vjw3 https://t.co/KVq6nSXsLL",Tue Oct 03 00:32:02 +0000 2017,71,-0.5994,0.0,0.769,0.231
+472,nytimes,"Ariana Grande, whose concert was struck by a suicide bomber in May, called for gun control after Las Vegas shooting https://t.co/rQXDcCueCt",Tue Oct 03 00:17:04 +0000 2017,72,-0.836,0.0,0.656,0.344
+473,nytimes,RT @nytopinion: A Congressman thought his colleagues would do something after 26 children and adults were murdered at Sandy Hook https://t.…,Tue Oct 03 00:02:06 +0000 2017,73,-0.6597,0.0,0.812,0.188
+474,nytimes,GM plans at least 20 all-electric vehicles by 2023 https://t.co/fOUXUHwDay,Mon Oct 02 23:47:02 +0000 2017,74,0.0,0.0,1.0,0.0
+475,nytimes,"“I’ve been a nurse for 30 years, and this was by far the worst moment I’ve had, the worst injuries”  https://t.co/MceJnlQjLT",Mon Oct 02 23:32:03 +0000 2017,75,-0.8481,0.0,0.687,0.313
+476,nytimes,A musician who was at the Las Vegas festival said his gun control views shifted after the mass shooting https://t.co/MW9GhKaLMB,Mon Oct 02 23:17:05 +0000 2017,76,0.2023,0.142,0.752,0.106
+477,nytimes,"RT @UpshotNYT: Another look at what might work to prevent gun deaths.
+https://t.co/pa0f6i28c6",Mon Oct 02 23:02:06 +0000 2017,77,-0.3182,0.076,0.759,0.166
+478,nytimes,"Equifax believes up to 145.5 million people may have had info stolen, 2.5 million more than it previously disclosed https://t.co/O2sK93dsJG",Mon Oct 02 22:47:06 +0000 2017,78,-0.4939,0.0,0.856,0.144
+479,nytimes,"Last year, her husband forgot their anniversary. This year, to make it up to her, he planned a trip to Vegas. https://t.co/ZIMcyNLpwy",Mon Oct 02 22:32:04 +0000 2017,79,0.0,0.0,1.0,0.0
+480,nytimes,"In Gaza, a reconciliation may be happening between the Fatah and Hamas factions of the Palestinians https://t.co/1IFDjAowFC",Mon Oct 02 22:18:05 +0000 2017,80,0.0,0.0,1.0,0.0
+481,nytimes,Fact Check: Viral claims and rumors in the Las Vegas shooting https://t.co/14eijH8Fbg,Mon Oct 02 22:07:05 +0000 2017,81,0.0,0.0,1.0,0.0
+482,nytimes,One NYT reader's reaction to the mass shooting in Las Vegas https://t.co/536RJJz74B https://t.co/eLfNnzPqrs,Mon Oct 02 21:55:56 +0000 2017,82,0.0,0.0,1.0,0.0
+483,nytimes,Incomplete records of Puerto Rico's landscape can make it hard to deliver aid. So volunteers are updating the maps. https://t.co/dhxwhX0GOF,Mon Oct 02 21:41:30 +0000 2017,83,-0.1027,0.0,0.931,0.069
+484,nytimes,"RT @palafo: When they heard the shooting, Sonny Melton grabbed his wife's hand, and they ran. She made it. He didn't. https://t.co/cTJUA3Hw…",Mon Oct 02 21:32:04 +0000 2017,84,0.4939,0.132,0.868,0.0
+485,nytimes,"After defying the Madrid government, separatists in Catalonia face the task of turning a contested vote into reality https://t.co/RxnU7JfDzF",Mon Oct 02 21:15:07 +0000 2017,85,0.0,0.0,1.0,0.0
+486,nytimes,"RT @nytopinion: Let’s mourn. But even more important, let’s act, says @NickKristof. https://t.co/dFhPZxL2bY",Mon Oct 02 20:56:05 +0000 2017,86,-0.1796,0.132,0.692,0.176
+487,nytimes,One NYT reader's reaction to the mass shooting in Las Vegas https://t.co/536RJJz74B https://t.co/v3s5AQAkYH,Mon Oct 02 20:46:04 +0000 2017,87,0.0,0.0,1.0,0.0
+488,nytimes,Watch the controlled explosion that brought down the old Kosciuszko Bridge in New York. Our #Daily360 https://t.co/vJrgPYEAn2,Mon Oct 02 20:35:05 +0000 2017,88,0.0,0.0,1.0,0.0
+489,nytimes,What makes Singapore's health care so cheap? https://t.co/OvIEn3WqIu,Mon Oct 02 20:25:02 +0000 2017,89,0.4939,0.314,0.686,0.0
+490,nytimes,"The duration of the bursts in Las Vegas suggest that if the shooter had formal weapons training, he didn't follow it https://t.co/oqjsozzQ9o",Mon Oct 02 20:15:13 +0000 2017,90,-0.4404,0.0,0.879,0.121
+491,nytimes,"The Las Vegas gunman had 19 rifles in his hotel room and hundreds of rounds of ammunition, an official said https://t.co/pNT1xuHNCv",Mon Oct 02 20:08:35 +0000 2017,91,0.0,0.0,1.0,0.0
+492,nytimes,"Oct. 1, 2017
+July 7, 2016
+June 12, 2016
+Dec. 2, 2015
+Nov. 27, 2015
+Oct. 1, 2015
+July 16, 2015
+
+The list goes on: https://t.co/TrfMpy5XL6",Mon Oct 02 20:05:06 +0000 2017,92,0.0,0.0,1.0,0.0
+493,nytimes,Some blood donors in Las Vegas were in line as early as 2 a.m. for centers that wouldn't open until 7 a.m. https://t.co/EYxJdbJXCw,Mon Oct 02 19:55:04 +0000 2017,93,0.0,0.0,1.0,0.0
+494,nytimes,"""This world is sick."" Musicians from the Las Vegas concert respond to the shooting that killed dozens. https://t.co/q7qPe3EmPX",Mon Oct 02 19:45:07 +0000 2017,94,-0.6705,0.0,0.791,0.209
+495,nytimes,Thousands of young undocumented immigrants are lining up to renew their protections before the clock runs out https://t.co/vCzW68Pez5,Mon Oct 02 19:35:07 +0000 2017,95,0.0,0.0,1.0,0.0
+496,nytimes,"“No one has experienced patient volumes to this level,” said a Las Vegas hospital spokeswoman https://t.co/Hc6DRbT8C0",Mon Oct 02 19:25:07 +0000 2017,96,0.0,0.0,1.0,0.0
+497,nytimes,"Opinion: ""Let’s mourn. But even more important, let’s act."" https://t.co/TjPvUvZkkJ",Mon Oct 02 19:15:10 +0000 2017,97,-0.1796,0.162,0.62,0.217
+498,nytimes,"Eric Paddock, the Las Vegas suspect’s brother, said that his brother was “not an avid gun guy at all”… https://t.co/KJWoSloqID",Mon Oct 02 19:05:08 +0000 2017,98,-0.0516,0.097,0.796,0.106
+499,nytimes,Caleb Keeter of Josh Abbott Band said that the Las Vegas shooting had changed his mind on the issue of gun rights… https://t.co/zT4owoeN1z,Mon Oct 02 18:55:03 +0000 2017,99,-0.34,0.0,0.902,0.098
